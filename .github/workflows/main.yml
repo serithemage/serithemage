@@ -48,3 +48,6 @@ jobs:
           plugin_topics_limit: 15
           plugin_topics_mode: starred
           plugin_topics_sort: stars
+          plugin_notable: yes
+          plugin_notable_from: organization
+          plugin_notable_types: commit

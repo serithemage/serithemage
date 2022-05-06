@@ -14,11 +14,12 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: NOT_NEEDED
           filename: github-metrics.svg
           base: header
           plugin_introduction: yes
           plugin_topics: yes
+          plugin_topics_mode: icons
           plugin_habits: yes
           plugin_habits_days: 30
           plugin_isocalendar: yes

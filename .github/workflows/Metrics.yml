@@ -24,7 +24,7 @@ jobs:
           # Options
           user: serithemage
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, activity, community, repositories
           config_timezone: Asia/Seoul
           plugin_gists: yes
           plugin_habits: yes

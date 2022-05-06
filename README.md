@@ -1,4 +1,4 @@
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1643514389/3643/cool-doge.gif?1643514389" width="30"/> Nice to meet You! </h1>
 
-### 안녕하세요! AWS 테크니컬 트레이너 정도현입니다.
 
 ![](github-metrics.svg)

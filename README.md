@@ -47,7 +47,6 @@ As an AWS Senior Technical Trainer, I am delivering the following subjects.
 - [Systems Operations on AWS](https://aws.amazon.com/ko/training/classroom/systems-operations-on-aws/?ct=sec&sec=rolesol)
 - [Developing Serverless Solutions on AWS](https://aws.amazon.com/ko/training/classroom/developing-serverless-solutions-on-aws/?ct=sec&sec=rolesol)
 - [AWS Security Essentials](https://aws.amazon.com/ko/training/classroom/aws-security-essentials/?ct=sec&sec=rolesol)
-- [Security Engineering on AWS](https://aws.amazon.com/ko/training/classroom/security-engineering-on-aws/?ct=sec&sec=rolesol)
 
 ## Mamezou - Tokyo, Japan (2013.01 ~ 2016.05)
 ### Architect, IT Consultant 

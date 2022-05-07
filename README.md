@@ -2,8 +2,9 @@
 
 Welcome to my page! I'm Jung Do Hyun, a technical trainer living in Seoul, Korea.
 
-- [Blog](https://www.moreagile.net/)
-- [LinkedIn](https://www.linkedin.com/in/jung-dohyun-b66b8262/)
+
+<a href="https://moreagile.net"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"></a>
+<h href="https://www.linkedin.com/in/jung-dohyun-b66b8262/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 ![](github-metrics.svg)
 
@@ -22,6 +23,19 @@ Welcome to my page! I'm Jung Do Hyun, a technical trainer living in Seoul, Korea
 
 # Summary
 I have been working as Developer, Architect, IT Consultant, Tech Blogger and Technical Trainer since 1995.
+
+# 📚 My tech stack 
+![Python](https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![MySql](https://img.shields.io/badge/Mysql-E6B91E?style=for-the-badge&logo=MySql&logoColor=white)
+![AWS](https://img.shields.io/badge/aws-333664?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
+![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=ffffff)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=ffffff)
+![KFC](https://img.shields.io/badge/burgerking-D62300?style=for-the-badge&logo=burger-king&logoColor=white)
+
 
 # Experience 
 

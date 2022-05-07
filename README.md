@@ -24,7 +24,7 @@ Welcome to my page! I'm Jung Do Hyun, a technical trainer living in Seoul, Korea
 # Summary
 I have been working as Developer, Architect, IT Consultant, Tech Blogger and Technical Trainer since 1995.
 
-# 📚 My tech stack 
+# My tech stack 
 ![Python](https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)

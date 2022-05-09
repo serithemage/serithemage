@@ -34,8 +34,8 @@ I have been working as Developer, Architect, IT Consultant, Tech Blogger and Tec
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=ffffff)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=ffffff)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit learn-f7931e?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikitlearn-f7931e?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![BurgerKing](https://img.shields.io/badge/burgerking-D62300?style=for-the-badge&logo=burger-king&logoColor=white)
 
 

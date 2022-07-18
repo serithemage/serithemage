@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1643514389/3643/cool-doge.gif?1643514389" width="30"/> Nice to meet You! </h1>
 
-Welcome to my page! I'm Jung Do Hyun, a technical trainer living in Seoul, Korea.
+Welcome to my page! I'm Jung Do Hyun, a cloud education expert and software development engineer living in Seoul, Korea.
 
 
 <a href="https://moreagile.net"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"></a>
@@ -42,8 +42,11 @@ I have been working as Developer, Architect, IT Consultant, Tech Blogger and Tec
 # Experience 
 
 ## Amazon Web Service - Seoul, Korea (2016.07 ~ )
-### Technical Trainer 
-As an AWS Senior Technical Trainer, I am delivering the following subjects.
+### Software Development Engineer (2022.07 ~ )
+- AWS T&C learning service developer
+
+### Technical Trainer (2016.07 ~ 2022.06)
+As an AWS senior technical trainer, I taught the following subjects.
 
 - [AWS Cloud Practitioner Essentials](https://aws.amazon.com/ko/training/classroom/aws-cloud-practitioner-essentials/?ct=tile&tile=gs1)
 - [AWS Cloud Essentials for Business Leaders](https://aws.amazon.com/ko/training/classroom/aws-cloud-essentials-for-business-leaders/?ct=tile&tile=gs1)

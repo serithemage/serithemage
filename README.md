@@ -31,6 +31,7 @@ I have been working as Developer, Architect, IT Consultant, Tech Blogger and Tec
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![MySql](https://img.shields.io/badge/Mysql-E6B91E?style=for-the-badge&logo=MySql&logoColor=white)
 ![AWS](https://img.shields.io/badge/aws-333664?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Jenkins](https://img.shields.io/jenkins/build)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=ffffff)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=ffffff)
@@ -53,11 +54,13 @@ I have been working as Developer, Architect, IT Consultant, Tech Blogger and Tec
   - The service uses a fully serverless architecture, the infrastructure is built and managed with the AWS CDK, and the development language is TypeScript.
   - Built a fully automated Full CI/CD pipeline that doesn't require human approval.
 - Develop and maintain authentication/authorization and user profile and subscription features for SkillBuilder
-  - Developed various automation scripts to operations exallance.
+  - Developed various automation scripts/services to operations exallance.
+    - Python, TypeScript
   - Suggested front-end performance improvements based on customer feedback, resulting in a 500% performance improvement.
 - Developed aws.training
-  - Performing issue analysis tasks and reports with DataWarehouse.
+  - Performing issue analysis tasks and reports with DataWarehouse(Redshift).
   - Suggestions for streamlining team operations by analyzing historical issue tracker data.
+    - SageMaker Canvas, PyCarot, Pandas
 
 ### Technical Trainer (2016.07 ~ 2022.06)
 > As an AWS senior technical trainer, I taught the following subjects.

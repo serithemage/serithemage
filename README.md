@@ -35,7 +35,6 @@ Interested in soft skills, hard skills, team building, process optimization, pro
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![MySql](https://img.shields.io/badge/Mysql-E6B91E?style=for-the-badge&logo=MySql&logoColor=white)
 ![AWS](https://img.shields.io/badge/aws-333664?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Jenkins](https://img.shields.io/jenkins/build)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=ffffff)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=ffffff)

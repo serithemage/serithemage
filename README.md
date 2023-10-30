@@ -43,10 +43,24 @@ I have been working as Developer, Architect, IT Consultant, Tech Blogger and Tec
 
 ## Amazon Web Service - Seoul, Korea (2016.07 ~ )
 ### Software Development Engineer (2022.07 ~ )
-- AWS T&C learning service developer
+> As a developer and acting manager of the first Amazon development team in Korea, I was responsible for the following tasks
+
+- Acting manager
+  - Worked on team building for the first Amazon development team in Korea.
+- Developing an A/B testing service
+  - With a simple setup, this service allows you to flag features, run A/B tests, and analyze the results of your experiments by analyzing success metrics.
+  - As a led developer, I performed requirements definition, design, implementation, operational planning, and security reviews on this project.
+  - The service uses a fully serverless architecture, the infrastructure is built and managed with the AWS CDK, and the development language is TypeScript.
+  - Built a fully automated Full CI/CD pipeline that doesn't require human approval.
+- Develop and maintain authentication/authorization and user profile and subscription features for SkillBuilder
+  - Developed various automation scripts to operations exallance.
+  - Suggested front-end performance improvements based on customer feedback, resulting in a 500% performance improvement.
+- Developed aws.training
+  - Performing issue analysis tasks and reports with DataWarehouse.
+  - Suggestions for streamlining team operations by analyzing historical issue tracker data.
 
 ### Technical Trainer (2016.07 ~ 2022.06)
-As an AWS senior technical trainer, I taught the following subjects.
+> As an AWS senior technical trainer, I taught the following subjects.
 
 - [AWS Cloud Practitioner Essentials](https://aws.amazon.com/ko/training/classroom/aws-cloud-practitioner-essentials/?ct=tile&tile=gs1)
 - [AWS Cloud Essentials for Business Leaders](https://aws.amazon.com/ko/training/classroom/aws-cloud-essentials-for-business-leaders/?ct=tile&tile=gs1)

@@ -22,7 +22,11 @@ Welcome to my page! I'm Jung Do Hyun, a cloud education expert and software deve
 <a href="https://www.credly.com/badges/cb8638dd-ec89-4836-9f56-b0c6055ddec4/public_url"><img src="https://images.credly.com/size/220x220/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="100"></a>
 
 # Summary
-I have been working as Developer, Architect, IT Consultant, Tech Blogger and Technical Trainer since 1995.
+I have been working as Software Developer, Architect, IT Consultant, Tech Blogger and Technical Trainer since 1995.
+
+Can perform any task related to software development if supported by the right resources, including time. Except English.
+
+Interested in soft skills, hard skills, team building, process optimization, programming languages, frameworks, tooling, etc. related to software development optimization.
 
 # My tech stack 
 ![Python](https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white)

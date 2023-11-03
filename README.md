@@ -90,6 +90,9 @@ Interested in soft skills, hard skills, team building, process optimization, pro
 ## Mamezou - Tokyo, Japan (2013.01 ~ 2016.05)
 ### Architect, IT Consultant 
 - Improve development processes and perform cloud migration as architects and IT consultants.
+  - Introduce Git-based CI/CD pipeline
+  - Introduce code review process
+  - Cloud migration proejct management
 
 ## Global Cybernet System - Tokyo, Japan (2002.06 ~ 2012.12)
 ### Java Developer, Architect, General Manager

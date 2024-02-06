@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1643514389/3643/cool-doge.gif?1643514389" width="30"/> Nice to meet You! </h1>
 
-Welcome to my page! I'm Jung Do Hyun, a cloud education expert and software development engineer living in Seoul, Korea.
+Welcome to my profile! I'm Jung Do Hyun, a cloud education expert and software development engineer living in Seoul, Korea.
 
 
 <a href="https://moreagile.net"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"></a>

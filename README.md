@@ -41,7 +41,7 @@ Interested in soft skills, hard skills, team building, process optimization, pro
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikitlearn-f7931e?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![BurgerKing](https://img.shields.io/badge/burgerking-D62300?style=for-the-badge&logo=burger-king&logoColor=white)
-
+![GraphQL](https://img.shields.io/badge/GraphQL-E434AA?style=for-the-badge&logo=graphql&logoColor=white)
 
 # Experience 
 
@@ -49,8 +49,8 @@ Interested in soft skills, hard skills, team building, process optimization, pro
 ### Software Development Engineer (2022.07 ~ )
 > As a developer and acting manager of the first Amazon development team in Korea, I was responsible for the following tasks
 
-- Acting manager
-  - Worked on team building for the first Amazon development team in Korea.
+- SkillBuilder.aws
+  - 
 - Developing an A/B testing service
   - With a simple setup, this service allows you to flag features, run A/B tests, and analyze the results of your experiments by analyzing success metrics.
   - As a led developer, I performed requirements definition, design, implementation, operational planning, and security reviews on this project.

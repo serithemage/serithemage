@@ -49,18 +49,20 @@ Interested in soft skills, hard skills, team building, process optimization, pro
 ### Software Development Engineer (2022.07 ~ )
 > As a developer and acting manager of the first Amazon development team in Korea, I was responsible for the following tasks
 
-- SkillBuilder.aws
-  - 
-- Developing an A/B testing service
+- Develop and operate services based on a full serverless microservices architecture
+  - DDD-based service design
+  - Implementing WDIO-based E2E testing
+  - Implementing a no-ops serverless architecture
+- Developing an [A/B testing service](https://aws.amazon.com/ko/blogs/aws/cloudwatch-evidently/)
   - With a simple setup, this service allows you to flag features, run A/B tests, and analyze the results of your experiments by analyzing success metrics.
   - As a led developer, I performed requirements definition, design, implementation, operational planning, and security reviews on this project.
   - The service uses a fully serverless architecture, the infrastructure is built and managed with the AWS CDK, and the development language is TypeScript.
   - Built a fully automated Full CI/CD pipeline that doesn't require human approval.
-- Develop and maintain authentication/authorization and user profile and subscription features for SkillBuilder
+- Develop and maintain authentication/authorization and user profile and subscription features for [SkillBuilder](https://skillbuilder.aws)
   - Developed various automation scripts/services to operations exallance.
     - Python, TypeScript
   - Suggested front-end performance improvements based on customer feedback, resulting in a 500% performance improvement.
-- Developed aws.training
+- Developed [aws.training](https://aws.traning)
   - Performing issue analysis tasks and reports with DataWarehouse(Redshift).
   - Suggestions for streamlining team operations by analyzing historical issue tracker data.
     - SageMaker Canvas, PyCarot, Pandas

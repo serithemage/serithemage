@@ -51,8 +51,8 @@ Interested in soft skills, hard skills, team building, process optimization, pro
 
 - Develop and operate services based on a full serverless microservices architecture
   - DDD-based service design
+  - Design and implement a serverless architecture for no-ops
   - Implementing WDIO-based E2E testing
-  - Implementing a no-ops serverless architecture
 - Developing an [A/B testing service](https://aws.amazon.com/ko/blogs/aws/cloudwatch-evidently/)
   - With a simple setup, this service allows you to flag features, run A/B tests, and analyze the results of your experiments by analyzing success metrics.
   - As a led developer, I performed requirements definition, design, implementation, operational planning, and security reviews on this project.

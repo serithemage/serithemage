@@ -42,6 +42,9 @@ Interested in soft skills, hard skills, team building, process optimization, pro
 ![Scikit-Learn](https://img.shields.io/badge/scikitlearn-f7931e?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![BurgerKing](https://img.shields.io/badge/burgerking-D62300?style=for-the-badge&logo=burger-king&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E434AA?style=for-the-badge&logo=graphql&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
+![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
 
 # Experience 
 

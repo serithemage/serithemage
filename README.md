@@ -1,12 +1,87 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1643514389/3643/cool-doge.gif?1643514389" width="30"/> Nice to meet You! </h1>
+<h1>Jung Do Hyun(정도현)</h1>
 
-Welcome to my profile! I'm Jung Do Hyun, a cloud education expert and software development engineer living in Seoul, Korea.
+Software Development Engineer at Amazon Web Services
+
+Location: Seoul, Korea   
+Blog: [moreagile.net](https://moreagile.net)   
+Linkedin: [@serithemage](https://www.linkedin.com/in/jung-dohyun-b66b8262/)
+
+# Summary
+I have extensive experience as a Software Developer, Architect, IT Consultant, Tech Blogger, and Technical Trainer since 1995. I excel in software development tasks when provided with adequate resources, including time. My interests include soft skills, hard skills, team building, process optimization, programming languages, frameworks, and tooling related to software development optimization.
+
+# Tech Stack 
+- Python
+- Java
+- JavaScript
+- TypeScript
+- MySQL
+- AWS
+- Git
+- Docker
+- Kubernetes
+- Pandas
+- Scikit-Learn
+- GraphQL
+- React
+- Svelte
+- Neo4J
+
+# Experience 
+
+## Amazon Web Service - Seoul, Korea (2016.07 ~ Present)
+### Software Development Engineer (2022.07 ~ Present)
+- Lead developer and acting manager for the first Amazon development team in Korea.
+- Developed and operated services based on a fully serverless microservices architecture.
+- Designed and implemented a serverless architecture using DDD principles.
+- Developed an A/B testing service using TypeScript and AWS CDK, creating a fully automated CI/CD pipeline.
+- Improved front-end performance by 500% based on customer feedback.
+
+### Technical Trainer (2016.07 ~ 2022.06)
+- Delivered training on a variety of AWS subjects including AWS Cloud Practitioner Essentials, AWS Technical Essentials, Architecting on AWS, and more.
+- Taught courses primarily related to Security, Development, ML Pipeline and DevOps.
+  - [Architecting on AWS](https://aws.amazon.com/ko/training/classroom/architecting-on-aws/?ct=sec&sec=rolesol)
+  - [Advanced Architecting on AWS](https://aws.amazon.com/ko/training/classroom/advanced-architecting-aws/?ct=sec&sec=rolesol)
+  - [Security Engineering on AWS](https://aws.amazon.com/ko/training/classroom/security-engineering-on-aws/)
+  - [Running Containers on Amazon Elastic Kubernetes Service (Amazon EKS)](https://aws.amazon.com/ko/training/classroom/running-containers-on-amazon-elastic-kubernetes-service-amazon-eks/?ct=sec&sec=rolesol)
+  - [Big Data on AWS](https://aws.amazon.com/ko/training/classroom/big-data-on-aws/?ct=sec&sec=rolesol)
+  - [Developing on AWS](https://aws.amazon.com/ko/training/classroom/developing-on-aws/?ct=sec&sec=rolesol)
+  - [Advanced Developing on AWS](https://aws.amazon.com/ko/training/classroom/advanced-developing-on-aws/?ct=sec&sec=rolesol)
+  - [DevOps Engineering on AWS](https://aws.amazon.com/ko/training/classroom/devops-engineering-on-aws/?ct=sec&sec=rolesol)
+  - [Deep Learning on AWS](https://aws.amazon.com/ko/training/classroom/deep-learning-on-aws/?ct=sec&sec=rolesol)
+  - [MLOps Engineering on AWS](https://aws.amazon.com/ko/training/classroom/mlops-engineering-on-aws/?ct=sec&sec=rolesol)
+  - [Machine Learning Pipeline on AWS](https://aws.amazon.com/ko/training/classroom/the-machine-learning-pipeline-on-aws/?ct=sec&sec=rolesol)
+  - [Developing Serverless Solutions on AWS](https://aws.amazon.com/ko/training/classroom/developing-serverless-solutions-on-aws/?ct=sec&sec=rolesol)
+
+## Mamezou - Tokyo, Japan (2013.01 ~ 2016.05)
+### Architect, IT Consultant 
+- Improved development processes and managed cloud migration projects.
+- Introduced Git-based CI/CD pipeline and code review processes.
+
+## Global Cybernet System - Tokyo, Japan (2002.06 ~ 2012.12)
+### Java Developer, Architect, General Manager
+- Developed enterprise and embedded applications.
+- Standardized development processes and managed projects.
+
+## LemonSoft - Seoul, Korea (2000.02 ~ 2002.03)
+### Web Developer, Game Producer
+- Web game developer and game producer
+
+## Publications
+- 배워서 바로 쓰는 14가지 AWS 구축 패턴 (한빛미디어 2020년)
+- 실전 AWS 워크북 (한빛미디어 2017년)
+- 나는 프로그래머다 2탄 ( 한빛미디어 2016년)
+- 나는 프로그래머다 (한빛미디어 2015년)
+
+## Organizations
+### InfoQ (2014.12 - 2016.4)
+- QCon Tokyo 2015 executive committee member
+
+## Education
+### Yonsei University (1994.3 - 2001.2)
+- Bachelor of Science (BS), Mathematics and Computer Science
 
 
-<a href="https://moreagile.net"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"></a>
-<h href="https://www.linkedin.com/in/jung-dohyun-b66b8262/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-
-![](github-metrics.svg)
+## Certification 
 
 <a href="https://www.credly.com/badges/518a5fb5-ce5a-4011-922c-8a41dd12a42c/public_url"><img src="https://images.credly.com/size/220x220/images/6430efe4-0ac0-4df6-8f1b-9559d8fcdf27/image.png" width="100"/></a>
 <a href="https://www.credly.com/badges/c9a169db-269b-4f6a-a112-b720eab42037/public_url"><img src="https://images.credly.com/size/220x220/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png" width="100"></a>
@@ -21,93 +96,5 @@ Welcome to my profile! I'm Jung Do Hyun, a cloud education expert and software d
 <a href="https://www.credly.com/badges/50b573e4-a7b0-4f62-9331-039c8b42418a/public_url"><img src="https://images.credly.com/size/220x220/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="100"></a>
 <a href="https://www.credly.com/badges/cb8638dd-ec89-4836-9f56-b0c6055ddec4/public_url"><img src="https://images.credly.com/size/220x220/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="100"></a>
 
-# Summary
-I have been working as Software Developer, Architect, IT Consultant, Tech Blogger and Technical Trainer since 1995.
-
-Can perform any task related to software development if supported by the right resources, including time. Except English.
-
-Interested in soft skills, hard skills, team building, process optimization, programming languages, frameworks, tooling, etc. related to software development optimization.
-
-# My tech stack 
-![Python](https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![MySql](https://img.shields.io/badge/Mysql-E6B91E?style=for-the-badge&logo=MySql&logoColor=white)
-![AWS](https://img.shields.io/badge/aws-333664?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
-![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=ffffff)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=ffffff)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikitlearn-f7931e?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![BurgerKing](https://img.shields.io/badge/burgerking-D62300?style=for-the-badge&logo=burger-king&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E434AA?style=for-the-badge&logo=graphql&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
-![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
-
-# Experience 
-
-## Amazon Web Service - Seoul, Korea (2016.07 ~ )
-### Software Development Engineer (2022.07 ~ )
-> As a developer and acting manager of the first Amazon development team in Korea, I was responsible for the following tasks
-
-- Develop and operate services based on a full serverless microservices architecture
-  - DDD-based service design
-  - Design and implement a serverless architecture for no-ops
-  - Implementing WDIO-based E2E testing
-- Developing an [A/B testing service](https://aws.amazon.com/ko/blogs/aws/cloudwatch-evidently/)
-  - With a simple setup, this service allows you to flag features, run A/B tests, and analyze the results of your experiments by analyzing success metrics.
-  - As a led developer, I performed requirements definition, design, implementation, operational planning, and security reviews on this project.
-  - The service uses a fully serverless architecture, the infrastructure is built and managed with the AWS CDK, and the development language is TypeScript.
-  - Built a fully automated Full CI/CD pipeline that doesn't require human approval.
-- Develop and maintain authentication/authorization and user profile and subscription features for [SkillBuilder](https://skillbuilder.aws)
-  - Developed various automation scripts/services to operations exallance.
-    - Python, TypeScript
-  - Suggested front-end performance improvements based on customer feedback, resulting in a 500% performance improvement.
-- Developed [aws.training](https://aws.traning)
-  - Performing issue analysis tasks and reports with DataWarehouse(Redshift).
-  - Suggestions for streamlining team operations by analyzing historical issue tracker data.
-    - SageMaker Canvas, PyCarot, Pandas
-
-### Technical Trainer (2016.07 ~ 2022.06)
-> As an AWS senior technical trainer, I taught the following subjects.
-
-- [AWS Cloud Practitioner Essentials](https://aws.amazon.com/ko/training/classroom/aws-cloud-practitioner-essentials/?ct=tile&tile=gs1)
-- [AWS Cloud Essentials for Business Leaders](https://aws.amazon.com/ko/training/classroom/aws-cloud-essentials-for-business-leaders/?ct=tile&tile=gs1)
-- [AWS Technical Essentials](https://aws.amazon.com/ko/training/classroom/aws-technical-essentials/?ct=tile&tile=gs1)
-- [Architecting on AWS](https://aws.amazon.com/ko/training/classroom/architecting-on-aws/?ct=sec&sec=rolesol)
-- [Advanced Architecting on AWS](https://aws.amazon.com/ko/training/classroom/advanced-architecting-aws/?ct=sec&sec=rolesol)
-- [Security Engineering on AWS](https://aws.amazon.com/ko/training/classroom/security-engineering-on-aws/)
-- [Running Containers on Amazon Elastic Kubernetes Service (Amazon EKS)](https://aws.amazon.com/ko/training/classroom/running-containers-on-amazon-elastic-kubernetes-service-amazon-eks/?ct=sec&sec=rolesol)
-- [Big Data on AWS](https://aws.amazon.com/ko/training/classroom/big-data-on-aws/?ct=sec&sec=rolesol)
-- [Developing on AWS](https://aws.amazon.com/ko/training/classroom/developing-on-aws/?ct=sec&sec=rolesol)
-- [Advanced Developing on AWS](https://aws.amazon.com/ko/training/classroom/advanced-developing-on-aws/?ct=sec&sec=rolesol)
-- [DevOps Engineering on AWS](https://aws.amazon.com/ko/training/classroom/devops-engineering-on-aws/?ct=sec&sec=rolesol)
-- [Deep Learning on AWS](https://aws.amazon.com/ko/training/classroom/deep-learning-on-aws/?ct=sec&sec=rolesol)
-- [MLOps Engineering on AWS](https://aws.amazon.com/ko/training/classroom/mlops-engineering-on-aws/?ct=sec&sec=rolesol)
-- [Machine Learning Pipeline on AWS](https://aws.amazon.com/ko/training/classroom/the-machine-learning-pipeline-on-aws/?ct=sec&sec=rolesol)
-- [Migrating to AWS](https://aws.amazon.com/ko/training/classroom/migrating-to-aws/?ct=sec&sec=rolesol)
-- [Systems Operations on AWS](https://aws.amazon.com/ko/training/classroom/systems-operations-on-aws/?ct=sec&sec=rolesol)
-- [Developing Serverless Solutions on AWS](https://aws.amazon.com/ko/training/classroom/developing-serverless-solutions-on-aws/?ct=sec&sec=rolesol)
-- [AWS Security Essentials](https://aws.amazon.com/ko/training/classroom/aws-security-essentials/?ct=sec&sec=rolesol)
-
-## Mamezou - Tokyo, Japan (2013.01 ~ 2016.05)
-### Architect, IT Consultant 
-- Improve development processes and perform cloud migration as architects and IT consultants.
-  - Introduce Git-based CI/CD pipeline
-  - Introduce code review process
-  - Cloud migration proejct management
-
-## Global Cybernet System - Tokyo, Japan (2002.06 ~ 2012.12)
-### Java Developer, Architect, General Manager
-- Enterprise application development
-- Embedded application development
-- Data modeling
-- Business modeling
-- Improve and standardize the development process
-- Project Management
-
-## LemonSoft - Seoul, Korea (2000.02 ~ 2002.03)
-### Web Developer, Game Producer
-- Web game developer and game producer
+## Github metrics
+![](github-metrics.svg)

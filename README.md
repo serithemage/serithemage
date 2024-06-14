@@ -10,21 +10,34 @@ Linkedin: [@serithemage](https://www.linkedin.com/in/jung-dohyun-b66b8262/)
 I have extensive experience as a Software Developer, Architect, IT Consultant, Tech Blogger, and Technical Trainer since 1995. I excel in software development tasks when provided with adequate resources, including time. My interests include soft skills, hard skills, team building, process optimization, programming languages, frameworks, and tooling related to software development optimization.
 
 # Tech Stack 
+## Programming Language
 - Python
 - Java
 - JavaScript
-- TypeScript
-- MySQL
+  - TypeScript
+## Cloud
 - AWS
-- Git
-- Docker
-- Kubernetes
+  - Serverless architecture
+  - DevOps
+  - MLOps
+## DB
+- DynamoDB  
+- MySQL
+- Redshift
+- Neptune (Graph DB)
+  - Neo4J
+## Data & Analytics
 - Pandas
 - Scikit-Learn
-- GraphQL
+## Frontend
 - React
 - Svelte
-- Neo4J
+## Etc
+- Git
+- Docker
+- ECS
+- Kubernetes
+- GraphQL
 
 # Experience 
 

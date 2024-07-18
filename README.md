@@ -1,9 +1,9 @@
 <h1>Jung Do Hyun(정도현)</h1>
 
-Software Development Engineer at Amazon Web Services
+Software Development Engineer at Amazon Web Services    
 
-Location: Seoul, Korea
-Email: [serithemage@gmail.com](mailto://serithemage@gmail.com)
+Location: Seoul, Korea    
+Email: [serithemage@gmail.com](mailto://serithemage@gmail.com)    
 Blog: [moreagile.net](https://moreagile.net)   
 Linkedin: [@serithemage](https://www.linkedin.com/in/jung-dohyun-b66b8262/)
 

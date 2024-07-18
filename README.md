@@ -18,7 +18,7 @@ I also like to talk about better software development with a wide range of peopl
 - Java17
 ## Cloud
 - AWS
-  - Serverless architecture
+  - Serverless Architecture
     - Lambda, StepFunction, API G/W, AppSync
   - DevOps
     - CodeCommit, CodeGuru, CodeBuild, CodeDeploy
@@ -40,7 +40,7 @@ I also like to talk about better software development with a wide range of peopl
 ## Etc
 - Git
 - Docker
-- ECS
+- ECS/Fargate
 - Kubernetes
 - GraphQL
 

@@ -2,27 +2,32 @@
 
 Software Development Engineer at Amazon Web Services
 
-Location: Seoul, Korea   
+Location: Seoul, Korea
+Email: [serithemage@gmail.com](mailto://serithemage@gmail.com)
 Blog: [moreagile.net](https://moreagile.net)   
 Linkedin: [@serithemage](https://www.linkedin.com/in/jung-dohyun-b66b8262/)
 
 # Summary
 I have extensive experience as a Software Developer, Architect, IT Consultant, Tech Blogger, and Technical Trainer since 1995. I excel in software development tasks when provided with adequate resources, including time. My interests include soft skills, hard skills, team building, process optimization, programming languages, frameworks, and tooling related to software development optimization.
+I also like to talk about better software development with a wide range of people.
 
 # Tech Stack 
 ## Programming Language
-- Python
-- Java
-- JavaScript
-  - TypeScript
+- JavaScript ES6 & TypeScript 5
+- Python3
+- Java17
 ## Cloud
 - AWS
   - Serverless architecture
+    - Lambda, StepFunction, API G/W, AppSync
   - DevOps
+    - CodeCommit, CodeGuru, CodeBuild, CodeDeploy
   - MLOps
+    - Sagemaker, Glue
+
 ## DB
 - DynamoDB  
-- MySQL
+- MySQL(RDS, Aurora)
 - Redshift
 - Neptune (Graph DB)
   - Neo4J
@@ -43,11 +48,10 @@ I have extensive experience as a Software Developer, Architect, IT Consultant, T
 
 ## Amazon Web Service - Seoul, Korea (2016.07 ~ Present)
 ### Software Development Engineer (2022.07 ~ Present)
-- Lead developer and acting manager for the first Amazon development team in Korea.
-- Developed and operated services based on a fully serverless microservices architecture.
-- Designed and implemented a serverless architecture using DDD principles.
+- As a Senior Developer in AWS T&C Services Development, responsible for the development and operation of skillbuilder.aws, a service for AWS learning.
+  - Designed and implemented a serverless architecture using DDD principles.
+  - Improved front-end latency by 500% based on customer feedback.
 - Developed an A/B testing service using TypeScript and AWS CDK, creating a fully automated CI/CD pipeline.
-- Improved front-end performance by 500% based on customer feedback.
 
 ### Technical Trainer (2016.07 ~ 2022.06)
 - Delivered training on a variety of AWS subjects including AWS Cloud Practitioner Essentials, AWS Technical Essentials, Architecting on AWS, and more.
@@ -76,22 +80,32 @@ I have extensive experience as a Software Developer, Architect, IT Consultant, T
 - Standardized development processes and managed projects.
 
 ## LemonSoft - Seoul, Korea (2000.02 ~ 2002.03)
-### Web Developer, Game Producer
+### Web based game developer
 - Web game developer and game producer
 
 ## Publications
-- 배워서 바로 쓰는 14가지 AWS 구축 패턴 (한빛미디어 2020년)
-- 실전 AWS 워크북 (한빛미디어 2017년)
-- 나는 프로그래머다 2탄 ( 한빛미디어 2016년)
-- 나는 프로그래머다 (한빛미디어 2015년)
+- 배워서 바로 쓰는 14가지 AWS 구축패턴 (Amazon Web Services 定番業務システム14パターン 設計ガイド韓国語訳) - Hanbit Media, 2020
+- 실전 AWS 워크북(Amazon WebServices 定番業務システム12パターン 設計ガイド 韓国語訳) - Hanbit Media, 2017
+- 나는 프로그래머다 2탄 - Hanbit Media, 2016
+- 나는 프로그래머다 - Hanbit Media, 2015
 
-## Organizations
+## Community
 ### InfoQ (2014.12 - 2016.4)
 - QCon Tokyo 2015 executive committee member
 
+### I am a Programmer 나는 프로그래머다 - Podcast about software development (2015.3 - 2017.9)
+- Producer & Host
+- Developer meetup NapuCon organize
+
+
+### AWS Korea User Group (2016.9 - now)
+- A member of a community leader group
+- Hands-on meetup organizer
+
+
 ## Education
 ### Yonsei University (1994.3 - 2001.2)
-- Bachelor of Science (BS), Mathematics and Computer Science
+- Bachelor of Science (BS), Mathematics(Major) and Computer Science(Minor)
 
 
 ## Certification 

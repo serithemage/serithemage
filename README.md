@@ -1,6 +1,6 @@
 <h1>Jung Do Hyun(정도현)</h1>
 
-Software Development Engineer at Amazon Web Services    
+AI Innovation Consultant
 
 Location: Seoul, Korea    
 Email: [serithemage@gmail.com](mailto://serithemage@gmail.com)    

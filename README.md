@@ -60,8 +60,14 @@ I also like to talk about better software development with a wide range of peopl
 
 # Experience 
 
-## Amazon Web Service - Seoul, Korea (2016.07 ~ Present)
-### Software Development Engineer (2022.07 ~ Present)
+## AI Innovation Consultant (2024.12 ~ Present)
+- Strategic consulting for AI integration across the software development lifecycle
+  - Providing AI implementation strategies for application development, planning, architecture, security, and operations
+  - Designing coaching and training programs to enhance organizational AI capabilities
+  - Establishing AI adoption metrics and continuous improvement frameworks
+
+## Amazon Web Service - Seoul, Korea (2016.07 ~ 2024.11)
+### Software Development Engineer (2022.07 ~ 2024.11)
 - From July 2022 to September 2023, as Acting Manager, I ran the team building and operations of Amazon's first development team in Korea.
   - Prioritized work based on customer experience, identified team members' capabilities and desires, assigned responsibilities, and managed risk.
   - As of September 2023, a full-time manager has been hired and I have been focusing on the role of SDE.

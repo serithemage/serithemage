@@ -8,10 +8,15 @@ Blog: [moreagile.net](https://moreagile.net)
 Linkedin: [@serithemage](https://www.linkedin.com/in/jung-dohyun-b66b8262/)
 
 # Summary
-I have extensive experience as a Software Developer, Architect, Project Manager, IT Consultant, Tech Blogger, and Technical Trainer since 1995. I excel in software development tasks when provided with adequate resources, including time. My interests include soft skills, hard skills, team building, process optimization, programming languages, frameworks, and tooling related to software development optimization.
+I have extensive experience as a Software Developer, Architect, Project Manager, IT Consultant, Tech Blogger, and Technical Trainer since 1995. As an AI Innovation Consultant, I specialize in integrating AI solutions across the software development lifecycle, helping organizations leverage AI technologies effectively while ensuring responsible and ethical implementation. I excel in software development tasks when provided with adequate resources, including time. My interests include soft skills, hard skills, team building, process optimization, programming languages, frameworks, and tooling related to software development optimization.
 I also like to talk about better software development with a wide range of people.
 
 # Key Skills
+## AI Innovation & Implementation
+- Expertise in designing and implementing AI-driven solutions that enhance software development processes and business operations
+- Strong track record in evaluating and implementing GenAI tools to improve developer productivity and code quality
+- Experience in establishing AI governance frameworks and best practices for responsible AI adoption
+- Proven ability to bridge the gap between technical AI capabilities and business requirements
 ## Cloud & Microservice migration experts
 - Experienced in various cloud migration projects as a PM and architect at large Japanese companies such as All Nippon Airways (ANA), Nomura Research Institute (NRI), and Oryx.
 - I have worked as a Technical Trainer at AWS for six years, interacting with numerous customers undergoing cloud migrations through classes and workshops. This experience has given me insight into the common mistakes customers make during cloud migrations and the ability to provide effective solutions to address or prevent them.

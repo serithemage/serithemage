@@ -8,8 +8,7 @@ Blog: [moreagile.net](https://moreagile.net)
 Linkedin: [@serithemage](https://www.linkedin.com/in/jung-dohyun-b66b8262/)
 
 # Summary
-I have extensive experience as a Software Developer, Architect, Project Manager, IT Consultant, Tech Blogger, and Technical Trainer since 1995. As an AI Innovation Consultant, I specialize in integrating AI solutions across the software development lifecycle, helping organizations leverage AI technologies effectively while ensuring responsible and ethical implementation. I excel in software development tasks when provided with adequate resources, including time. My interests include soft skills, hard skills, team building, process optimization, programming languages, frameworks, and tooling related to software development optimization.
-I also like to talk about better software development with a wide range of people.
+Founder of Roboco.io, providing consulting services in AI-driven development (Vibe Coding) and platform engineering. I help organizations build more efficient and creative software development processes by effectively integrating AI technologies. My focus is on innovating software development and building robust platforms leveraging cutting-edge AI and cloud infrastructure.
 
 # Key Skills
 ## AI Innovation & Implementation

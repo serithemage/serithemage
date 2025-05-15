@@ -2,10 +2,10 @@
 
 Vibe Coding Consultant
 
-Location: Seoul, Korea
-Email: [dohyun@roboco.io](mailto://dohyun@roboco.io)
-Blog: [moreagile.net](https://moreagile.net)
-Linkedin: [@serithemage](https://www.linkedin.com/in/jung-dohyun-b66b8262/)
+- Location: Seoul, Korea
+- Email: [dohyun@roboco.io](mailto://dohyun@roboco.io)
+- Blog: [moreagile.net](https://moreagile.net)
+- Linkedin: [@serithemage](https://www.linkedin.com/in/jung-dohyun-b66b8262/)
 
 # Summary
 

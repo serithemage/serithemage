@@ -2,11 +2,11 @@
 
 **Vibe Coding Pioneer & AI-Driven Development Expert**
 
-Location: Seoul, Korea
-Email: [dohyun@roboco.io](mailto://dohyun@roboco.io)
-Blog: [moreagile.net](https://moreagile.net)
-LinkedIn: [@serithemage](https://www.linkedin.com/in/jung-dohyun-b66b8262/)
-GitHub: [@serithemage](https://github.com/serithemage)
+- Location: Seoul, Korea
+- Email: [dohyun@roboco.io](mailto://dohyun@roboco.io)
+- Blog: [moreagile.net](https://moreagile.net)
+- LinkedIn: [@serithemage](https://www.linkedin.com/in/jung-dohyun-b66b8262/)
+- GitHub: [@serithemage](https://github.com/serithemage)
 
 # Summary
 

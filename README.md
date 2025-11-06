@@ -1,24 +1,35 @@
 <h1>Jung Do Hyun(정도현)</h1>
 
-Vibe Coding Consultant
+**Vibe Coding Pioneer & AI-Driven Development Expert**
 
-- Location: Seoul, Korea
-- Email: [dohyun@roboco.io](mailto://dohyun@roboco.io)
-- Blog: [moreagile.net](https://moreagile.net)
-- Linkedin: [@serithemage](https://www.linkedin.com/in/jung-dohyun-b66b8262/)
+Location: Seoul, Korea
+Email: [dohyun@roboco.io](mailto://dohyun@roboco.io)
+Blog: [moreagile.net](https://moreagile.net)
+LinkedIn: [@serithemage](https://www.linkedin.com/in/jung-dohyun-b66b8262/)
+GitHub: [@serithemage](https://github.com/serithemage)
 
 # Summary
 
-Founder of [Roboco.io](https://roboco.io), providing consulting and training services in AI-driven development (**Vibe Coding**) and platform engineering. I help organizations integrate AI technologies effectively into their software development processes to enhance productivity and innovation. My expertise lies in designing efficient workflows leveraging cutting-edge AI and cloud infrastructure, and promoting a culture of continuous improvement and collaboration through Vibe Coding.
+Pioneer of **Vibe Coding** methodology and founder of [Roboco.io](https://roboco.io), leading the transformation of software development through AI collaboration. With over a decade of experience spanning AWS, cloud architecture, and DevOps, I now focus on helping organizations adopt AI-driven development practices that dramatically enhance productivity and innovation.
+
+As one of Korea's foremost Vibe Coding experts, I provide strategic consulting, hands-on training, and create open-source tools that empower developers to collaborate effectively with AI. My work bridges traditional software engineering practices with cutting-edge AI capabilities, demonstrating practical approaches through real-world projects and comprehensive educational materials.
 
 # Key Skills
 
+## Vibe Coding Expertise
+
+* **Pioneer and thought leader** in Vibe Coding methodology - transforming software development through human-AI collaboration
+* Created comprehensive educational framework with hands-on workshops, teaching materials, and real-world demonstrations
+* Built production-grade open-source tools and libraries demonstrating Vibe Coding principles across multiple technology stacks
+* Published curated resources ([awesome-vibecoding](https://github.com/roboco-io/awesome-vibecoding)) serving as the definitive guide for AI-driven development
+* Active community builder through workshops, conferences, and training programs helping organizations adopt AI development practices
+
 ## AI Innovation & Implementation
 
-* Specialization in Vibe Coding methodologies to accelerate software development processes through AI collaboration
-* Expertise in designing and implementing AI-driven solutions that enhance developer productivity and creativity
-* Proven track record of successful adoption and training programs for AI tools, including GenAI for automated coding and review processes
-* Experienced in creating practical AI governance frameworks aligned with business objectives
+* Expertise in designing and implementing AI-driven development workflows that enhance productivity and code quality
+* Proven track record of successful organizational AI adoption programs with measurable productivity improvements
+* Experience building AI-powered development tools (Solar Code CLI, automation frameworks, analysis tools)
+* Skilled in creating practical AI governance frameworks aligned with business objectives and development workflows
 
 ## Cloud & Microservice Migration Experts
 
@@ -51,7 +62,7 @@ Founder of [Roboco.io](https://roboco.io), providing consulting and training ser
 
 ## DB
 
-* DynamoDB, MySQL(RDS, Aurora), Redshift, Neptune(Graph DB), Neo4J
+* DynamoDB, MySQL(RDS, Aurora), Redshift, Neptune(Graph DB), Neo4J, Oracle, PostgreSQL
 
 ## Data & Analytics
 
@@ -67,12 +78,14 @@ Founder of [Roboco.io](https://roboco.io), providing consulting and training ser
 
 # Experience
 
-## AI Innovation Consultant (Roboco.io) (2024.12 \~ Present)
+## AI Innovation Consultant & Vibe Coding Pioneer (Roboco.io) (2024.12 \~ Present)
 
-* Provide strategic consulting on adopting AI-driven development practices (Vibe Coding)
-* Lead training and workshops for organizations to implement Vibe Coding methodologies
-* Facilitate the integration of AI tools into software development processes, enhancing productivity and innovation
-* Develop frameworks to measure the effectiveness and continuous improvement of AI adoption
+* **Lead Vibe Coding adoption** across organizations through strategic consulting, hands-on training, and customized implementation roadmaps
+* **Create and maintain open-source tools** demonstrating Vibe Coding principles across multiple domains (CLI tools, web applications, serverless architectures)
+* **Deliver comprehensive training programs** including workshop materials, hands-on demos, and real-world project templates
+* **Build community resources** such as awesome-vibecoding (84 stars), establishing best practices and curated learning paths
+* **Develop innovative development tools** like Solar Code CLI for AI-powered codebase interaction and analysis
+* **Publish educational content** through blogs, conference presentations, and practical demonstrations
 
 ## Amazon Web Service - Seoul, Korea (2016.07 \~ 2024.11)
 
@@ -94,6 +107,61 @@ Founder of [Roboco.io](https://roboco.io), providing consulting and training ser
 ### Projects
 
 * Successfully delivered Orix and ANA cloud migration projects by introducing agile methodologies and automated CI/CD
+
+# Featured Projects & Open Source Contributions
+
+## Vibe Coding Tools & Frameworks
+
+### [Solar Code](https://github.com/serithemage/solar-code)
+AI-powered CLI tool built on Upstage's Solar Pro2 model for intelligent codebase interaction. Features native Korean and English support, advanced code analysis, and extensible MCP integration. Enables developers to query, edit, and analyze codebases through natural conversation.
+
+### [awesome-vibecoding](https://github.com/roboco-io/awesome-vibecoding) ⭐ 84 stars
+Comprehensive curated resource collection for Vibe Coding - the definitive guide for AI-driven development. Includes best practices, tools, learning paths, and community resources.
+
+## Educational Projects & Workshops
+
+### [Hands-On Vibe Coding Organization](https://github.com/orgs/Hands-On-Vibe-Coding/repositories)
+Complete learning ecosystem with 7 repositories including:
+- **handson-vibecoding-demo** - Interactive TypeScript demonstration project
+- **ToDoList** - Learning project for Vibe Coding fundamentals
+- **TicTacToe** - First Vibe Coding project showcasing AI collaboration
+- **realworld-vibe-coding** - Production-grade application example
+- **vibe-coding-calc-demo** - Calculator demo for hands-on learning
+- **hands-on-vibecoding-slides** - Comprehensive teaching materials
+
+### [Vibe Coding Paradigm Organization](https://github.com/orgs/vibe-coding-paradigm/repositories)
+Advanced projects demonstrating enterprise development patterns:
+- **Realworld-serverless-microservice** - Migrating real-world apps to serverless microservices
+- **Realworld-build-from-prd** - Building applications from product requirements documents
+
+## Roboco.io Open Source
+
+### Workshops & Training Materials
+- **[vibe-coding-workshop](https://github.com/roboco-io/vibe-coding-workshop)** - Workshop materials for introducing Vibe Coding
+- **[vibe-coding-toolkit](https://github.com/roboco-io/vibe-coding-toolkit)** - Toolkit supporting Vibe Coding workflows
+
+### Real-World Applications
+- **[realworld-java21-springboot3](https://github.com/roboco-io/realworld-java21-springboot3)** - Modern Java backend API implementation
+- **[conduit-flask](https://github.com/roboco-io/conduit-flask)** - Blog platform with Python/Flask and Couchbase
+- **[windsurf-todo-demo](https://github.com/roboco-io/windsurf-todo-demo)** - 30-minute live coding demonstration app
+- **[realworld-front](https://github.com/roboco-io/realworld-front)** - Frontend for Conduit platform
+
+### Serverless & Cloud Architecture
+- **[serverless-realworld-monorepo](https://github.com/roboco-io/serverless-realworld-monorepo)** - Monorepo for serverless implementations
+- **[realworld-backend-serverless-microservice](https://github.com/roboco-io/realworld-backend-serverless-microservice)** - Monolithic to serverless migration
+
+### Development Tools
+- **[gh-project-cli](https://github.com/roboco-io/gh-project-cli)** - CLI for GitHub Projects automation
+- **[data-analysis-demo](https://github.com/roboco-io/data-analysis-demo)** - Stock market analysis with AI workflows
+
+### AI & Research
+- **[KSAT-AI-Benchmark](https://github.com/roboco-io/KSAT-AI-Benchmark)** - AI benchmarking project
+- **[qunova-protein-analyzer](https://github.com/roboco-io/qunova-protein-analyzer)** - Protein structure analysis tool
+
+## AWS & Cloud Infrastructure
+
+### [ECS Fargate Fast Scaleout](https://github.com/serithemage/ecs-fargate-fast-scaleout)
+Production-ready CDK implementation achieving sub-10-second autoscaling response for ECS Fargate services. Features high-resolution CloudWatch metrics, RPS-based scaling policies, and comprehensive operational guides. Addresses critical scaling latency issues in containerized workloads.
 
 # Publications
 

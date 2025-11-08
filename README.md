@@ -168,7 +168,8 @@ Production-ready CDK implementation achieving sub-10-second autoscaling response
 * [핸즈온 바이브 코딩 (Hands-On Vibe Coding)](https://www.hanbit.co.kr/store/books/look.php?p_code=B3757318997) - Hanbit Media, 2025
 * [배워서 바로 쓰는 14가지 AWS 구축패턴 (14 AWS Architecture Patterns You Can Use Right Away)](https://www.hanbit.co.kr/store/books/look.php?p_code=B9791162242841) - Hanbit Media, 2020
 * [실전 AWS 워크북 (Practical AWS Workbook)](http://www.hanbit.co.kr/media/books/book_view.html?p_code=B3875088991) - Hanbit Media, 2017
-* [나는 프로그래머다 1,2 (I am a Programmer Series)](https://www.yes24.com/product/goods/22466811) - Hanbit Media, 2015\~2016
+* [나는 프로그래머다 2탄 (I am a Programmer Vol.2)](https://www.hanbit.co.kr/store/books/look.php?p_code=B9138379916) - Hanbit Media, 2017
+* [나는 프로그래머다 - 팟캐스트 나는 프로그래머다: 뉴욕, 서울, 도쿄 개발자의 촌철살인 IT 이야기](I am a Programmer Vol.1)](https://www.hanbit.co.kr/store/books/look.php?p_code=B9138379916) - Hanbit Media, 2016
 
 # Community
 

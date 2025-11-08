@@ -122,17 +122,17 @@ Comprehensive curated resource collection for Vibe Coding - the definitive guide
 
 ### [Hands-On Vibe Coding Organization](https://github.com/orgs/Hands-On-Vibe-Coding/repositories)
 Complete learning ecosystem with 7 repositories including:
-- **handson-vibecoding-demo** - Interactive TypeScript demonstration project
-- **ToDoList** - Learning project for Vibe Coding fundamentals
-- **TicTacToe** - First Vibe Coding project showcasing AI collaboration
-- **realworld-vibe-coding** - Production-grade application example
-- **vibe-coding-calc-demo** - Calculator demo for hands-on learning
-- **hands-on-vibecoding-slides** - Comprehensive teaching materials
+- **[handson-vibecoding-demo](https://github.com/Hands-On-Vibe-Coding/handson-vibecoding-demo)** - Interactive TypeScript demonstration project
+- **[ToDoList](https://github.com/Hands-On-Vibe-Coding/ToDoList)** - Learning project for Vibe Coding fundamentals
+- **[TicTacToe](https://github.com/Hands-On-Vibe-Coding/TicTacToe)** - First Vibe Coding project showcasing AI collaboration
+- **[realworld-vibe-coding](https://github.com/Hands-On-Vibe-Coding/realworld-vibe-coding)** - Production-grade application example
+- **[vibe-coding-calc-demo](https://github.com/Hands-On-Vibe-Coding/vibe-coding-calc-demo)** - Calculator demo for hands-on learning
+- **[hands-on-vibecoding-slides](https://github.com/Hands-On-Vibe-Coding/hands-on-vibecoding-slides)** - Comprehensive teaching materials
 
 ### [Vibe Coding Paradigm Organization](https://github.com/orgs/vibe-coding-paradigm/repositories)
 Advanced projects demonstrating enterprise development patterns:
-- **Realworld-serverless-microservice** - Migrating real-world apps to serverless microservices
-- **Realworld-build-from-prd** - Building applications from product requirements documents
+- **[Realworld-serverless-microservice](https://github.com/vibe-coding-paradigm/Realworld-serverless-microservice)** - Migrating real-world apps to serverless microservices
+- **[Realworld-build-from-prd](https://github.com/vibe-coding-paradigm/Realworld-build-from-prd)** - Building applications from product requirements documents
 
 ## Roboco.io Open Source
 

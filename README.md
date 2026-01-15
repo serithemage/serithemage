@@ -12,7 +12,7 @@
 
 Pioneer of **Vibe Coding** methodology and founder of [Roboco.io](https://roboco.io), leading the transformation of software development through AI collaboration. With over a decade of experience spanning AWS, cloud architecture, and DevOps, I now focus on helping organizations adopt AI-driven development practices that dramatically enhance productivity and innovation.
 
-As one of Korea's foremost Vibe Coding experts, I provide strategic consulting, hands-on training, and create open-source tools that empower developers to collaborate effectively with AI. My work bridges traditional software engineering practices with cutting-edge AI capabilities, demonstrating practical approaches through real-world projects and comprehensive educational materials.
+As one of Korea's foremost Vibe Coding experts, I provide strategic consulting, hands-on training, and create open-source tools that empower developers to collaborate effectively with AI. My work includes building production-grade development tools (Claude Code skills, CLI utilities), establishing coding standards, and creating comprehensive educational resources. I actively contribute to the AI development community through workshops, conference presentations, and open-source projects with growing adoption and recognition.
 
 # Key Skills
 
@@ -112,11 +112,14 @@ As one of Korea's foremost Vibe Coding experts, I provide strategic consulting, 
 
 ## Vibe Coding Tools & Frameworks
 
-### [Solar Code](https://github.com/serithemage/solar-code)
+### [Solar Code](https://github.com/serithemage/solar-code) ⭐ 12 stars
 AI-powered CLI tool built on Upstage's Solar Pro2 model for intelligent codebase interaction. Features native Korean and English support, advanced code analysis, and extensible MCP integration. Enables developers to query, edit, and analyze codebases through natural conversation.
 
-### [awesome-vibecoding](https://github.com/roboco-io/awesome-vibecoding) ⭐ 84 stars
+### [awesome-vibecoding](https://github.com/roboco-io/awesome-vibecoding) ⭐ 119 stars
 Comprehensive curated resource collection for Vibe Coding - the definitive guide for AI-driven development. Includes best practices, tools, learning paths, and community resources.
+
+### [vibe-coding-recommendations](https://github.com/roboco-io/vibe-coding-recommendations)
+Official Vibe Coding standard guide establishing best practices, conventions, and recommendations for AI-driven development. Provides comprehensive guidelines for effective human-AI collaboration in software development.
 
 ## Educational Projects & Workshops
 
@@ -138,27 +141,54 @@ Advanced projects demonstrating enterprise development patterns:
 
 ### Workshops & Training Materials
 - **[vibe-coding-workshop](https://github.com/roboco-io/vibe-coding-workshop)** - Workshop materials for introducing Vibe Coding
-- **[vibe-coding-toolkit](https://github.com/roboco-io/vibe-coding-toolkit)** - Toolkit supporting Vibe Coding workflows
+- **[vibe-coding-toolkit](https://github.com/roboco-io/vibe-coding-toolkit)** ⭐ 2 - Toolkit supporting Vibe Coding workflows
+- **[ttimes-vibecoding-conference](https://github.com/roboco-io/ttimes-vibecoding-conference)** ⭐ 18 - Live demo Todo app for Vibe Coding workshops
+- **[vibecoding-demo](https://github.com/roboco-io/vibecoding-demo)** ⭐ 33 - TypeScript demonstration project for Vibe Coding fundamentals
+- **[handson-vibecoding-demo](https://github.com/roboco-io/handson-vibecoding-demo)** ⭐ 8 - Interactive hands-on Vibe Coding learning project
 
 ### Real-World Applications
 - **[realworld-java21-springboot3](https://github.com/roboco-io/realworld-java21-springboot3)** - Modern Java backend API implementation
 - **[conduit-flask](https://github.com/roboco-io/conduit-flask)** - Blog platform with Python/Flask and Couchbase
 - **[windsurf-todo-demo](https://github.com/roboco-io/windsurf-todo-demo)** - 30-minute live coding demonstration app
 - **[realworld-front](https://github.com/roboco-io/realworld-front)** - Frontend for Conduit platform
+- **[Project-Hwalbindang](https://github.com/roboco-io/Project-Hwalbindang)** - Mock investment platform targeting Robinhood-like UX with Flutter
 
 ### Serverless & Cloud Architecture
 - **[serverless-realworld-monorepo](https://github.com/roboco-io/serverless-realworld-monorepo)** - Monorepo for serverless implementations
 - **[realworld-backend-serverless-microservice](https://github.com/roboco-io/realworld-backend-serverless-microservice)** - Monolithic to serverless migration
 
 ### Development Tools
-- **[gh-project-cli](https://github.com/roboco-io/gh-project-cli)** - CLI for GitHub Projects automation
+- **[ghx-cli](https://github.com/roboco-io/ghx-cli)** ⭐ 5 - Enhanced CLI for GitHub Projects automation and workflow management
+- **[claude-skills](https://github.com/roboco-io/claude-skills)** - Claude Code skills collection for code review, API design, test generation, and Korean documentation
+- **[hwp2md](https://github.com/roboco-io/hwp2md)** ⭐ 9 - Tool for converting HWP (Hancom Word Processor) documents to Markdown
 - **[data-analysis-demo](https://github.com/roboco-io/data-analysis-demo)** - Stock market analysis with AI workflows
 
 ### AI & Research
-- **[KSAT-AI-Benchmark](https://github.com/roboco-io/KSAT-AI-Benchmark)** - AI benchmarking project
+- **[korea-ai-foundation-model-verification](https://github.com/serithemage/korea-ai-foundation-model-verification)** ⭐ 44 - Verification project for Korean government's AI foundation models from 5 institutions (Upstage, NAVER, SKT, NC, LG)
+- **[KSAT-AI-Benchmark](https://github.com/roboco-io/KSAT-AI-Benchmark)** - AI benchmarking project for Korean SAT tests
 - **[qunova-protein-analyzer](https://github.com/roboco-io/qunova-protein-analyzer)** - Protein structure analysis tool
 
+## Personal Projects & Experiments
+
+### [claude-code-demo](https://github.com/serithemage/claude-code-demo) ⭐ 4
+RealWorld (Conduit) implementation - Medium.com clone with React 19 + Express demonstrating Claude Code integration patterns and AI-driven development workflows.
+
+### [updoc](https://github.com/serithemage/updoc) ⭐ 3
+CLI tool for Upstage Document Parse API, enabling efficient document parsing and processing through command-line interface.
+
+### [2017 CSAT Mathematics Type GA](https://github.com/serithemage/2017_CSAT_Mathematics_Type_GA) ⭐ 20
+Python solutions for 2017 Korean College Scholastic Ability Test mathematics problems, demonstrating computational problem-solving approaches.
+
 ## AWS & Cloud Infrastructure
+
+### [AWSCertifiedSolutionsArchitectUnofficialStudyGuide](https://github.com/serithemage/AWSCertifiedSolutionsArchitectUnofficialStudyGuide) ⭐ 1,311
+Unofficial study guide for AWS Certified Solutions Architect - Associate exam. One of the most popular Korean-language AWS certification resources with comprehensive coverage of exam topics and practical insights.
+
+### [AWS Class Resources](https://github.com/serithemage/AWS_class_resources) ⭐ 75
+Repository of AWS training materials and resources accumulated from years of experience as AWS Technical Trainer, covering various AWS services and best practices.
+
+### [AWS AI Study](https://github.com/serithemage/AWS_AI_Study) ⭐ 52
+Collection of AWS AI/ML learning resources including Jupyter notebooks, tutorials, and hands-on examples for AWS AI services like SageMaker, Comprehend, and Rekognition.
 
 ### [ECS Fargate Fast Scaleout](https://github.com/serithemage/ecs-fargate-fast-scaleout)
 Production-ready CDK implementation achieving sub-10-second autoscaling response for ECS Fargate services. Features high-resolution CloudWatch metrics, RPS-based scaling policies, and comprehensive operational guides. Addresses critical scaling latency issues in containerized workloads.

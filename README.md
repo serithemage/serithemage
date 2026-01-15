@@ -4,7 +4,7 @@
 
 - Location: Seoul, Korea
 - Email: [dohyun@roboco.io](mailto://dohyun@roboco.io)
-- Blog: [moreagile.net](https://moreagile.net)
+- Blog: [roboco.io/posts](https://roboco.io/posts/), [moreagile.net](https://moreagile.net)
 - LinkedIn: [@serithemage](https://www.linkedin.com/in/jung-dohyun-b66b8262/)
 - GitHub: [@serithemage](https://github.com/serithemage)
 

@@ -83,7 +83,7 @@ As one of Korea's foremost Vibe Coding experts, I provide strategic consulting, 
 * **Lead Vibe Coding adoption** across organizations through strategic consulting, hands-on training, and customized implementation roadmaps
 * **Create and maintain open-source tools** demonstrating Vibe Coding principles across multiple domains (CLI tools, web applications, serverless architectures)
 * **Deliver comprehensive training programs** including workshop materials, hands-on demos, and real-world project templates
-* **Build community resources** such as awesome-vibecoding (84 stars), establishing best practices and curated learning paths
+* **Build community resources** such as awesome-vibecoding (133 stars), establishing best practices and curated learning paths
 * **Develop innovative development tools** like Solar Code CLI for AI-powered codebase interaction and analysis
 * **Publish educational content** through blogs, conference presentations, and practical demonstrations
 
@@ -115,8 +115,11 @@ As one of Korea's foremost Vibe Coding experts, I provide strategic consulting, 
 ### [Solar Code](https://github.com/serithemage/solar-code) ⭐ 12 stars
 AI-powered CLI tool built on Upstage's Solar Pro2 model for intelligent codebase interaction. Features native Korean and English support, advanced code analysis, and extensible MCP integration. Enables developers to query, edit, and analyze codebases through natural conversation.
 
-### [awesome-vibecoding](https://github.com/roboco-io/awesome-vibecoding) ⭐ 119 stars
+### [awesome-vibecoding](https://github.com/roboco-io/awesome-vibecoding) ⭐ 133 stars
 Comprehensive curated resource collection for Vibe Coding - the definitive guide for AI-driven development. Includes best practices, tools, learning paths, and community resources.
+
+### [AI-DLC](https://github.com/serithemage/AI-DLC) ⭐ 4
+AI-Driven Development Lifecycle (AI-DLC) methodology Korean translation. Comprehensive framework for integrating AI into the software development lifecycle.
 
 ### [vibe-coding-recommendations](https://github.com/roboco-io/vibe-coding-recommendations)
 Official Vibe Coding standard guide establishing best practices, conventions, and recommendations for AI-driven development. Provides comprehensive guidelines for effective human-AI collaboration in software development.
@@ -151,7 +154,7 @@ Advanced projects demonstrating enterprise development patterns:
 - **[conduit-flask](https://github.com/roboco-io/conduit-flask)** - Blog platform with Python/Flask and Couchbase
 - **[windsurf-todo-demo](https://github.com/roboco-io/windsurf-todo-demo)** - 30-minute live coding demonstration app
 - **[realworld-front](https://github.com/roboco-io/realworld-front)** - Frontend for Conduit platform
-- **[Project-Hwalbindang](https://github.com/roboco-io/Project-Hwalbindang)** - Mock investment platform targeting Robinhood-like UX with Flutter
+- **[Project-Hwalbindang](https://github.com/roboco-io/Project-Hwalbindang)** ⭐ 2 - Mock investment platform targeting Robinhood-like UX with Flutter
 
 ### Serverless & Cloud Architecture
 - **[serverless-realworld-monorepo](https://github.com/roboco-io/serverless-realworld-monorepo)** - Monorepo for serverless implementations
@@ -160,11 +163,13 @@ Advanced projects demonstrating enterprise development patterns:
 ### Development Tools
 - **[ghx-cli](https://github.com/roboco-io/ghx-cli)** ⭐ 5 - Enhanced CLI for GitHub Projects automation and workflow management
 - **[claude-skills](https://github.com/roboco-io/claude-skills)** - Claude Code skills collection for code review, API design, test generation, and Korean documentation
-- **[hwp2md](https://github.com/roboco-io/hwp2md)** ⭐ 9 - Tool for converting HWP (Hancom Word Processor) documents to Markdown
+- **[hwp2md](https://github.com/roboco-io/hwp2md)** ⭐ 21 - Tool for converting HWP (Hancom Word Processor) documents to Markdown
+- **[botmadang-mcp](https://github.com/serithemage/botmadang-mcp)** ⭐ 2 - MCP server for Botmadang, enabling AI agents to interact with Korean social platform
+- **[buildcop](https://github.com/roboco-io/buildcop)** ⭐ 1 - CLI tool to find broken culprit for large test suites
 - **[data-analysis-demo](https://github.com/roboco-io/data-analysis-demo)** - Stock market analysis with AI workflows
 
 ### AI & Research
-- **[korea-ai-foundation-model-verification](https://github.com/serithemage/korea-ai-foundation-model-verification)** ⭐ 44 - Verification project for Korean government's AI foundation models from 5 institutions (Upstage, NAVER, SKT, NC, LG)
+- **[korea-ai-foundation-model-verification](https://github.com/serithemage/korea-ai-foundation-model-verification)** ⭐ 47 - Verification project for Korean government's AI foundation models from 5 institutions (Upstage, NAVER, SKT, NC, LG)
 - **[KSAT-AI-Benchmark](https://github.com/roboco-io/KSAT-AI-Benchmark)** - AI benchmarking project for Korean SAT tests
 - **[qunova-protein-analyzer](https://github.com/roboco-io/qunova-protein-analyzer)** - Protein structure analysis tool
 
@@ -173,7 +178,7 @@ Advanced projects demonstrating enterprise development patterns:
 ### [claude-code-demo](https://github.com/serithemage/claude-code-demo) ⭐ 4
 RealWorld (Conduit) implementation - Medium.com clone with React 19 + Express demonstrating Claude Code integration patterns and AI-driven development workflows.
 
-### [updoc](https://github.com/serithemage/updoc) ⭐ 3
+### [updoc](https://github.com/serithemage/updoc) ⭐ 5
 CLI tool for Upstage Document Parse API, enabling efficient document parsing and processing through command-line interface.
 
 ### [2017 CSAT Mathematics Type GA](https://github.com/serithemage/2017_CSAT_Mathematics_Type_GA) ⭐ 20
@@ -181,7 +186,7 @@ Python solutions for 2017 Korean College Scholastic Ability Test mathematics pro
 
 ## AWS & Cloud Infrastructure
 
-### [AWSCertifiedSolutionsArchitectUnofficialStudyGuide](https://github.com/serithemage/AWSCertifiedSolutionsArchitectUnofficialStudyGuide) ⭐ 1,311
+### [AWSCertifiedSolutionsArchitectUnofficialStudyGuide](https://github.com/serithemage/AWSCertifiedSolutionsArchitectUnofficialStudyGuide) ⭐ 1,314
 Unofficial study guide for AWS Certified Solutions Architect - Associate exam. One of the most popular Korean-language AWS certification resources with comprehensive coverage of exam topics and practical insights.
 
 ### [AWS Class Resources](https://github.com/serithemage/AWS_class_resources) ⭐ 75

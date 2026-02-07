@@ -12,7 +12,7 @@
 
 Pioneer of **Vibe Coding** methodology and founder of [Roboco.io](https://roboco.io), leading the transformation of software development through AI collaboration. With over a decade of experience spanning AWS, cloud architecture, and DevOps, I now focus on helping organizations adopt AI-driven development practices that dramatically enhance productivity and innovation.
 
-As one of Korea's foremost Vibe Coding experts, I provide strategic consulting, hands-on training, and create open-source tools that empower developers to collaborate effectively with AI. My work includes building production-grade development tools (Claude Code skills, CLI utilities), establishing coding standards, and creating comprehensive educational resources. I actively contribute to the AI development community through workshops, conference presentations, and open-source projects with growing adoption and recognition.
+As one of Korea's foremost Vibe Coding experts, I provide strategic consulting, hands-on training, and create open-source tools that empower developers to collaborate effectively with AI. My work includes building production-grade development tools (Claude Code skills, MCP servers, CLI utilities), establishing coding standards, translating key AI development methodologies like AI-DLC into Korean, and creating comprehensive educational resources. I actively contribute to the AI development community through workshops, conference presentations, and open-source projects with growing adoption and recognition.
 
 # Key Skills
 
@@ -28,7 +28,8 @@ As one of Korea's foremost Vibe Coding experts, I provide strategic consulting, 
 
 * Expertise in designing and implementing AI-driven development workflows that enhance productivity and code quality
 * Proven track record of successful organizational AI adoption programs with measurable productivity improvements
-* Experience building AI-powered development tools (Solar Code CLI, automation frameworks, analysis tools)
+* Experience building AI-powered development tools (Solar Code CLI, MCP servers, automation frameworks, analysis tools)
+* Contributed to AI development methodology through Korean translation of [AI-DLC](https://github.com/serithemage/AI-DLC) (AI-Driven Development Lifecycle) framework
 * Skilled in creating practical AI governance frameworks aligned with business objectives and development workflows
 
 ## Cloud & Microservice Migration Experts
@@ -47,6 +48,7 @@ As one of Korea's foremost Vibe Coding experts, I provide strategic consulting, 
 
 * Early adopter and passionate advocate of CI/CD, DevOps, and Agile methodologies
 * Successfully implemented automated code reviews and streamlined development workflows using GenAI technologies, significantly improving team efficiency
+* Built developer productivity tools such as [buildcop](https://github.com/roboco-io/buildcop) for automated test failure analysis in large codebases
 
 # Tech Stack
 
@@ -84,7 +86,8 @@ As one of Korea's foremost Vibe Coding experts, I provide strategic consulting, 
 * **Create and maintain open-source tools** demonstrating Vibe Coding principles across multiple domains (CLI tools, web applications, serverless architectures)
 * **Deliver comprehensive training programs** including workshop materials, hands-on demos, and real-world project templates
 * **Build community resources** such as awesome-vibecoding (133 stars), establishing best practices and curated learning paths
-* **Develop innovative development tools** like Solar Code CLI for AI-powered codebase interaction and analysis
+* **Develop innovative development tools** like Solar Code CLI, MCP servers ([botmadang-mcp](https://github.com/serithemage/botmadang-mcp)), and testing tools ([buildcop](https://github.com/roboco-io/buildcop)) for AI-powered development workflows
+* **Translate and localize key AI methodologies** such as [AI-DLC](https://github.com/serithemage/AI-DLC) (AI-Driven Development Lifecycle) for the Korean developer community
 * **Publish educational content** through blogs, conference presentations, and practical demonstrations
 
 ## Amazon Web Service - Seoul, Korea (2016.07 \~ 2024.11)

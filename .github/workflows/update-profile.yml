@@ -1,0 +1,63 @@
+name: Weekly Profile Update
+
+on:
+  schedule:
+    # 매주 월요일 오전 10시 KST (일요일 UTC 01:00)
+    - cron: "0 1 * * 1"
+  workflow_dispatch:
+
+concurrency:
+  group: profile-update
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  update-profile:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.METRICS_TOKEN }}
+
+      - name: Pull latest changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git pull --rebase origin main || true
+
+      - name: Install Claude Code
+        run: npm install -g @anthropic-ai/claude-code
+
+      - name: Update profile with Claude Code
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GH_TOKEN: ${{ secrets.METRICS_TOKEN }}
+        run: |
+          claude -p "
+          GitHub 활동 기반으로 README.md 프로필을 업데이트해줘. 다음 순서로 진행해:
+
+          1. README.md의 마지막 수정일을 git log에서 확인
+          2. gh api를 사용해서 다음 데이터 수집:
+             - serithemage의 최근 저장소 활동
+             - roboco-io 조직의 최근 저장소 활동
+             - 주요 프로젝트 스타 수 (AWSCertifiedSolutionsArchitectUnofficialStudyGuide, awesome-vibecoding, solar-code 등 README에 있는 모든 프로젝트)
+          3. 수집된 데이터를 분석하여:
+             - 스타 수가 변경된 프로젝트는 업데이트
+             - 새로 생성되거나 공개된 저장소는 적절한 카테고리에 추가
+             - 프로젝트 설명이 변경된 경우 반영
+          4. README.md를 직접 수정해줘
+          5. 변경사항이 있으면 커밋해줘. 커밋 메시지는 변경 내용을 명확히 기술하고, 끝에 '- [Skip GitHub Action]' 을 추가해줘.
+             변경사항이 없으면 아무것도 하지 마.
+
+          주의: github-metrics.svg는 절대 수정하지 마.
+          " --allowedTools "Bash(gh:*)" "Bash(git:*)" "Bash(date:*)" "Read" "Edit" "Grep" "Glob"
+
+      - name: Push changes
+        run: |
+          git pull --rebase origin main || true
+          git push origin main || true

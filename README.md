@@ -85,7 +85,7 @@ As one of Korea's foremost Vibe Coding experts, I provide strategic consulting, 
 * **Lead Vibe Coding adoption** across organizations through strategic consulting, hands-on training, and customized implementation roadmaps
 * **Create and maintain open-source tools** demonstrating Vibe Coding principles across multiple domains (CLI tools, web applications, serverless architectures)
 * **Deliver comprehensive training programs** including workshop materials, hands-on demos, and real-world project templates
-* **Build community resources** such as awesome-vibecoding (154 stars), establishing best practices and curated learning paths
+* **Build community resources** such as awesome-vibecoding (155 stars), establishing best practices and curated learning paths
 * **Develop innovative development tools** like Solar Code CLI, MCP servers ([botmadang-mcp](https://github.com/serithemage/botmadang-mcp)), and testing tools ([buildcop](https://github.com/roboco-io/buildcop)) for AI-powered development workflows
 * **Translate and localize key AI methodologies** such as [AI-DLC](https://github.com/serithemage/AI-DLC) (AI-Driven Development Lifecycle) for the Korean developer community
 * **Publish educational content** through blogs, conference presentations, and practical demonstrations
@@ -118,7 +118,7 @@ As one of Korea's foremost Vibe Coding experts, I provide strategic consulting, 
 ### [Solar Code](https://github.com/serithemage/solar-code) ⭐ 13 stars
 AI-powered CLI tool built on Upstage's Solar Pro2 model for intelligent codebase interaction. Features native Korean and English support, advanced code analysis, and extensible MCP integration. Enables developers to query, edit, and analyze codebases through natural conversation.
 
-### [awesome-vibecoding](https://github.com/roboco-io/awesome-vibecoding) ⭐ 154 stars
+### [awesome-vibecoding](https://github.com/roboco-io/awesome-vibecoding) ⭐ 155 stars
 Comprehensive curated resource collection for Vibe Coding - the definitive guide for AI-driven development. Includes best practices, tools, learning paths, and community resources.
 
 ### [AI-DLC](https://github.com/serithemage/AI-DLC) ⭐ 5
@@ -165,11 +165,12 @@ Advanced projects demonstrating enterprise development patterns:
 ### Serverless & Cloud Architecture
 - **[serverless-realworld-monorepo](https://github.com/roboco-io/serverless-realworld-monorepo)** - Monorepo for serverless implementations
 - **[realworld-backend-serverless-microservice](https://github.com/roboco-io/realworld-backend-serverless-microservice)** - Monolithic to serverless migration
+- **[s3-experiments](https://github.com/roboco-io/s3-experiments)** ⭐ 3 - Exploring S3 as KV Store, Event Store, RDBMS, and more with benchmarks and honest tradeoffs
 
 ### Development Tools
 - **[ghx-cli](https://github.com/roboco-io/ghx-cli)** ⭐ 5 - Enhanced CLI for GitHub Projects automation and workflow management
 - **[claude-skills](https://github.com/roboco-io/claude-skills)** - Claude Code skills collection for code review, API design, test generation, and Korean documentation
-- **[hwp2md](https://github.com/roboco-io/hwp2md)** ⭐ 34 - Tool for converting HWP (Hancom Word Processor) documents to Markdown
+- **[hwp2md](https://github.com/roboco-io/hwp2md)** ⭐ 72 - Tool for converting HWP (Hancom Word Processor) documents to Markdown
 - **[botmadang-mcp](https://github.com/serithemage/botmadang-mcp)** ⭐ 3 - MCP server for Botmadang, enabling AI agents to interact with Korean social platform
 - **[buildcop](https://github.com/roboco-io/buildcop)** ⭐ 1 - CLI tool to find broken culprit for large test suites
 - **[data-analysis-demo](https://github.com/roboco-io/data-analysis-demo)** - Stock market analysis with AI workflows
@@ -181,7 +182,7 @@ Advanced projects demonstrating enterprise development patterns:
 
 ## Personal Projects & Experiments
 
-### [serverless-openclaw](https://github.com/serithemage/serverless-openclaw) ⭐ 143 stars
+### [serverless-openclaw](https://github.com/serithemage/serverless-openclaw) ⭐ 148 stars
 Run OpenClaw AI agent on-demand on AWS serverless infrastructure with Web UI and Telegram interfaces. Cost target ~$1/month. Presented at AWS Unicorn Day 2026.
 
 ### [claude-code-demo](https://github.com/serithemage/claude-code-demo) ⭐ 4
@@ -189,6 +190,9 @@ RealWorld (Conduit) implementation - Medium.com clone with React 19 + Express de
 
 ### [updoc](https://github.com/serithemage/updoc) ⭐ 5
 CLI tool for Upstage Document Parse API, enabling efficient document parsing and processing through command-line interface.
+
+### [awesome-student-developer-resources](https://github.com/serithemage/awesome-student-developer-resources) ⭐ 11
+Curated list of discounted and free programs, tools, and resources available to student developers.
 
 ### [2017 CSAT Mathematics Type GA](https://github.com/serithemage/2017_CSAT_Mathematics_Type_GA) ⭐ 20
 Python solutions for 2017 Korean College Scholastic Ability Test mathematics problems, demonstrating computational problem-solving approaches.

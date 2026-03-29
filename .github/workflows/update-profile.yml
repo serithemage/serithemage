@@ -30,6 +30,11 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git pull --rebase origin main || true
 
+      - name: Collect GitHub activity data
+        env:
+          GH_TOKEN: ${{ secrets.METRICS_TOKEN }}
+        run: make collect-all
+
       - name: Install Claude Code
         run: npm install -g @anthropic-ai/claude-code
 
@@ -39,23 +44,22 @@ jobs:
           GH_TOKEN: ${{ secrets.METRICS_TOKEN }}
         run: |
           claude -p "
-          GitHub 활동 기반으로 README.md 프로필을 업데이트해줘. 다음 순서로 진행해:
+          GitHub 활동 데이터가 data/ 디렉토리에 수집되어 있다. 이를 기반으로 README.md 프로필을 업데이트해줘.
 
-          1. README.md의 마지막 수정일을 git log에서 확인
-          2. gh api를 사용해서 다음 데이터 수집:
-             - serithemage의 최근 저장소 활동
-             - roboco-io 조직의 최근 저장소 활동
-             - 주요 프로젝트 스타 수 (AWSCertifiedSolutionsArchitectUnofficialStudyGuide, awesome-vibecoding, solar-code 등 README에 있는 모든 프로젝트)
-          3. 수집된 데이터를 분석하여:
-             - 스타 수가 변경된 프로젝트는 업데이트
-             - 새로 생성되거나 공개된 저장소는 적절한 카테고리에 추가
-             - 프로젝트 설명이 변경된 경우 반영
-          4. README.md를 직접 수정해줘
-          5. 변경사항이 있으면 커밋해줘. 커밋 메시지는 변경 내용을 명확히 기술하고, 끝에 '- [Skip GitHub Action]' 을 추가해줘.
+          수집된 데이터:
+          - data/stars.tsv: 추적 대상 프로젝트의 현재 스타 수
+          - data/repos.txt: 최근 업데이트된 저장소 목록 (serithemage + roboco-io)
+          - data/events.json: 최근 GitHub 이벤트 요약
+
+          업데이트 순서:
+          1. data/stars.tsv를 읽어서 README.md의 스타 수와 비교, 변경된 것만 업데이트
+          2. data/repos.txt를 읽어서 README.md에 없는 새 퍼블릭 프로젝트 식별
+             - 스타가 있거나 의미 있는 프로젝트만 적절한 카테고리에 추가
+             - 프라이빗 저장소는 직접 언급하지 말고 Summary/Key Skills/Tech Stack에서 간접 반영
+          3. data/events.json으로 주목할 활동 확인하여 Experience 섹션에 반영
+          4. 변경사항이 있으면 커밋. 커밋 메시지는 변경 내용을 명확히 기술하고 끝에 '- [Skip GitHub Action]' 추가
              변경사항이 없으면 아무것도 하지 마.
-
-          주의: github-metrics.svg는 절대 수정하지 마.
-          " --allowedTools "Bash(gh:*)" "Bash(git:*)" "Bash(date:*)" "Read" "Edit" "Grep" "Glob"
+          " --allowedTools "Bash(gh:*)" "Bash(git:*)" "Bash(date:*)" "Bash(make:*)" "Read" "Edit" "Grep" "Glob"
 
       - name: Push changes
         run: |

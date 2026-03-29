@@ -261,6 +261,3 @@ Production-ready CDK implementation achieving sub-10-second autoscaling response
 <a href="https://www.credly.com/badges/dba4c361-838b-4398-a7b3-9c8794e789cb/public_url"><img src="https://images.credly.com/size/220x220/images/53acdae5-d69f-4dda-b650-d02ed7a50dd7/image.png" width="100"></a>
 <a href="https://www.credly.com/badges/50b573e4-a7b0-4f62-9331-039c8b42418a/public_url"><img src="https://images.credly.com/size/220x220/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="100"></a>
 <a href="https://www.credly.com/badges/cb8638dd-ec89-4836-9f56-b0c6055ddec4/public_url"><img src="https://images.credly.com/size/220x220/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="100"></a>
-
-## Github metrics
-![](github-metrics.svg)

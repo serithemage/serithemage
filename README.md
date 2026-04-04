@@ -1,4 +1,4 @@
-<h1>Jung Do Hyun(정도현)</h1>
+<h1>Jung Do Hyun</h1>
 
 **Vibe Coding Pioneer & AI-Driven Development Expert**
 
@@ -10,7 +10,7 @@
 
 # Summary
 
-Pioneer of **Vibe Coding** methodology and founder of [Roboco.io](https://roboco.io), leading the transformation of software development through AI collaboration. With over a decade of experience spanning AWS, cloud architecture, and DevOps, I now focus on helping organizations adopt AI-driven development practices that dramatically enhance productivity and innovation. Author of [핸즈온 바이브 코딩](https://www.hanbit.co.kr/store/books/look.php?p_code=B3757318997) (Hanbit Media, 2025).
+Pioneer of **Vibe Coding** methodology and founder of [Roboco.io](https://roboco.io), leading the transformation of software development through AI collaboration. With over a decade of experience spanning AWS, cloud architecture, and DevOps, I now focus on helping organizations adopt AI-driven development practices that dramatically enhance productivity and innovation. Author of [Hands-On Vibe Coding](https://www.hanbit.co.kr/store/books/look.php?p_code=B3757318997) (Hanbit Media, 2025).
 
 As one of Korea's foremost Vibe Coding experts, I provide strategic consulting, hands-on training, and create open-source tools that empower developers to collaborate effectively with AI. My work spans building cost-optimized serverless AI infrastructure ([Serverless OpenClaw](https://github.com/serithemage/serverless-openclaw), ⭐183), Claude Code plugin ecosystems, document processing tools ([hwp2md](https://github.com/roboco-io/hwp2md), ⭐105), and AI research pipelines. I also develop Git-based multi-LLM engineering intelligence services for developer performance analysis, build workshop platforms for scalable training delivery, and pioneer the Challenge Driven Learning (CDL) methodology for hands-on AI education. I actively contribute to the community through enterprise workshops, conference presentations (AWS Unicorn Day 2026), and open-source projects with rapidly growing adoption.
 
@@ -19,7 +19,7 @@ As one of Korea's foremost Vibe Coding experts, I provide strategic consulting, 
 ## Vibe Coding Expertise
 
 * **Pioneer and thought leader** in Vibe Coding methodology - transforming software development through human-AI collaboration
-* Published [핸즈온 바이브 코딩](https://www.hanbit.co.kr/store/books/look.php?p_code=B3757318997) (Hanbit Media, 2025), the definitive Korean-language guide to Vibe Coding
+* Published [Hands-On Vibe Coding](https://www.hanbit.co.kr/store/books/look.php?p_code=B3757318997) (Hanbit Media, 2025), the definitive Korean-language guide to Vibe Coding
 * Created comprehensive educational framework including Challenge Driven Learning (CDL) methodology, workshop platforms, and real-world demonstrations
 * Built production-grade open-source tools and libraries demonstrating Vibe Coding principles across multiple technology stacks
 * Published curated resources ([awesome-vibecoding](https://github.com/roboco-io/awesome-vibecoding), ⭐160) serving as the definitive guide for AI-driven development
@@ -56,36 +56,36 @@ As one of Korea's foremost Vibe Coding experts, I provide strategic consulting, 
 
 ## AI Development Tools
 
-* **Claude Code** — 플러그인 생태계 구축 ([plugins](https://github.com/roboco-io/plugins), [aidlc-cc-plugin](https://github.com/serithemage/aidlc-cc-plugin)), Skills/Commands/Agents/Hooks 개발
-* **Multi-LLM Orchestration** — Claude, GPT, Gemini 등 복수 모델을 활용한 개발자 분석 및 에이전트 파이프라인 설계
-* **MCP (Model Context Protocol)** — AI 에이전트 연동 서버 구축 ([botmadang-mcp](https://github.com/serithemage/botmadang-mcp) ⭐3)
-* **Upstage Solar Pro2** — 코드 어시스턴트 CLI 개발 ([solar-code](https://github.com/serithemage/solar-code) ⭐13)
-* Cursor, Windsurf 등 AI 코딩 도구 활용 및 기업 워크샵 교육
+* **Claude Code** — Plugin ecosystem development ([plugins](https://github.com/roboco-io/plugins), [aidlc-cc-plugin](https://github.com/serithemage/aidlc-cc-plugin)), Skills/Commands/Agents/Hooks
+* **Multi-LLM Orchestration** — Developer analysis and agent pipeline design using Claude, GPT, Gemini and other models
+* **MCP (Model Context Protocol)** — AI agent integration server development ([botmadang-mcp](https://github.com/serithemage/botmadang-mcp) ⭐3)
+* **Upstage Solar Pro2** — Code assistant CLI development ([solar-code](https://github.com/serithemage/solar-code) ⭐13)
+* Cursor, Windsurf and other AI coding tools — hands-on enterprise workshop training
 
 ## Languages & Frameworks
 
-* **TypeScript** — 서버리스 AI 에이전트 ([serverless-openclaw](https://github.com/serithemage/serverless-openclaw) ⭐183), 코드 어시스턴트, 데모 앱
-* **Go** — 문서 변환 도구 ([hwp2md](https://github.com/roboco-io/hwp2md) ⭐105), GitHub 자동화 CLI ([ghx-cli](https://github.com/roboco-io/ghx-cli) ⭐5), 테스트 분석 ([buildcop](https://github.com/roboco-io/buildcop))
-* **Python** — AI 연구 파이프라인 ([serverless-autoresearch](https://github.com/roboco-io/serverless-autoresearch) ⭐15), S3 벤치마크 실험 ([s3-experiments](https://github.com/roboco-io/s3-experiments) ⭐8), MCP 서버
-* **Java 21** — Spring Boot 3 기반 백엔드 API ([realworld-java21-springboot3](https://github.com/roboco-io/realworld-java21-springboot3))
+* **TypeScript** — Serverless AI agents ([serverless-openclaw](https://github.com/serithemage/serverless-openclaw) ⭐183), code assistants, demo apps
+* **Go** — Document conversion tools ([hwp2md](https://github.com/roboco-io/hwp2md) ⭐105), GitHub automation CLI ([ghx-cli](https://github.com/roboco-io/ghx-cli) ⭐5), test analysis ([buildcop](https://github.com/roboco-io/buildcop))
+* **Python** — AI research pipelines ([serverless-autoresearch](https://github.com/roboco-io/serverless-autoresearch) ⭐15), S3 benchmark experiments ([s3-experiments](https://github.com/roboco-io/s3-experiments) ⭐8), MCP servers
+* **Java 21** — Spring Boot 3 backend API ([realworld-java21-springboot3](https://github.com/roboco-io/realworld-java21-springboot3))
 
 ## AWS Serverless & AI Infrastructure
 
-* **Lambda + API Gateway + DynamoDB** — OpenClaw AI 에이전트 (~$1/month 운영 비용 달성)
-* **SageMaker Spot Training (H100)** — autoresearch 병렬 진화 파이프라인 (10x 성능 향상)
-* **S3** — KV Store, Event Store, RDBMS 대체 가능성 벤치마크 검증
-* **ECS/Fargate, CDK, StepFunctions** — 컨테이너 오케스트레이션 및 IaC
-* CloudWatch, CodeBuild, CodeDeploy — CI/CD 및 운영
+* **Lambda + API Gateway + DynamoDB** — OpenClaw AI agent (~$1/month operational cost)
+* **SageMaker Spot Training (H100)** — autoresearch parallel evolution pipeline (10x performance improvement)
+* **S3** — Benchmark validation for KV Store, Event Store, RDBMS alternatives
+* **ECS/Fargate, CDK, StepFunctions** — Container orchestration and IaC
+* CloudWatch, CodeBuild, CodeDeploy — CI/CD and operations
 
 ## Frontend & UI
 
-* React 19, Svelte — Vibe Coding 데모 및 실전 프로젝트
-* Telegram Bot API, Web UI — AI 에이전트 인터페이스
+* React 19, Svelte — Vibe Coding demos and production projects
+* Telegram Bot API, Web UI — AI agent interfaces
 
 ## Data & Tooling
 
-* DynamoDB, MySQL(Aurora), PostgreSQL, Redshift, Neo4J — 프로젝트별 최적 DB 선택
-* Docker, Makefile 기반 빌드 — 전 프로젝트 표준화된 개발 환경
+* DynamoDB, MySQL(Aurora), PostgreSQL, Redshift, Neo4J — Optimal database selection per project
+* Docker, Makefile-based builds — Standardized development environment across all projects
 
 # Experience
 
@@ -234,11 +234,11 @@ Production-ready CDK implementation achieving sub-10-second autoscaling response
 
 # Publications
 
-* [핸즈온 바이브 코딩 (Hands-On Vibe Coding)](https://www.hanbit.co.kr/store/books/look.php?p_code=B3757318997) - Hanbit Media, 2025
-* [배워서 바로 쓰는 14가지 AWS 구축패턴 (14 AWS Architecture Patterns You Can Use Right Away)](https://www.hanbit.co.kr/store/books/look.php?p_code=B9791162242841) - Hanbit Media, 2020
-* [실전 AWS 워크북 (Practical AWS Workbook)](http://www.hanbit.co.kr/media/books/book_view.html?p_code=B3875088991) - Hanbit Media, 2017
-* [나는 프로그래머다 2탄 (I am a Programmer Vol.2)](https://www.hanbit.co.kr/store/books/look.php?p_code=B9138379916) - Hanbit Media, 2017
-* [나는 프로그래머다 - 팟캐스트 나는 프로그래머다: 뉴욕, 서울, 도쿄 개발자의 촌철살인 IT 이야기(I am a Programmer Vol.1)](https://www.hanbit.co.kr/store/books/look.php?p_code=B9138379916) - Hanbit Media, 2016
+* [Hands-On Vibe Coding](https://www.hanbit.co.kr/store/books/look.php?p_code=B3757318997) - Hanbit Media, 2025
+* [14 AWS Architecture Patterns You Can Use Right Away](https://www.hanbit.co.kr/store/books/look.php?p_code=B9791162242841) - Hanbit Media, 2020
+* [Practical AWS Workbook](http://www.hanbit.co.kr/media/books/book_view.html?p_code=B3875088991) - Hanbit Media, 2017
+* [I am a Programmer Vol.2](https://www.hanbit.co.kr/store/books/look.php?p_code=B9138379916) - Hanbit Media, 2017
+* [I am a Programmer Vol.1](https://www.hanbit.co.kr/store/books/look.php?p_code=B9138379916) - Hanbit Media, 2016
 
 # Community
 

@@ -22,7 +22,7 @@ As one of Korea's foremost Vibe Coding experts, I provide strategic consulting, 
 * Published [Hands-On Vibe Coding](https://www.hanbit.co.kr/store/books/look.php?p_code=B3757318997) (Hanbit Media, 2025), the definitive Korean-language guide to Vibe Coding
 * Created comprehensive educational framework including Challenge Driven Learning (CDL) methodology, workshop platforms, and real-world demonstrations
 * Built production-grade open-source tools and libraries demonstrating Vibe Coding principles across multiple technology stacks
-* Published curated resources ([awesome-vibecoding](https://github.com/roboco-io/awesome-vibecoding), ⭐160) serving as the definitive guide for AI-driven development
+* Published curated resources ([awesome-vibecoding](https://github.com/roboco-io/awesome-vibecoding), ⭐162) serving as the definitive guide for AI-driven development
 * Active community builder through workshops, conferences (AWS Unicorn Day 2026), and training programs helping organizations adopt AI development practices
 
 ## AI Innovation & Implementation
@@ -92,7 +92,7 @@ As one of Korea's foremost Vibe Coding experts, I provide strategic consulting, 
 ## AI Innovation Consultant & Vibe Coding Pioneer (Roboco.io) (2024.12 \~ Present)
 
 * **Lead Vibe Coding adoption** across organizations through strategic consulting, hands-on training, and customized implementation roadmaps
-* **Create and maintain open-source tools** demonstrating Vibe Coding principles — Serverless OpenClaw (⭐183), hwp2md (⭐105), awesome-vibecoding (⭐160)
+* **Create and maintain open-source tools** demonstrating Vibe Coding principles — Serverless OpenClaw (⭐183), hwp2md (⭐105), awesome-vibecoding (⭐162)
 * **Build serverless AI infrastructure** achieving ~$1/month operational cost for AI agent workloads ([Serverless OpenClaw](https://github.com/serithemage/serverless-openclaw), ⭐183); presented at **AWS Unicorn Day 2026**
 * **Develop Git-based engineering intelligence services** using multi-LLM orchestration for developer performance analysis
 * **Pioneer Challenge Driven Learning (CDL)** methodology and build workshop platforms for scalable AI education delivery
@@ -128,7 +128,7 @@ As one of Korea's foremost Vibe Coding experts, I provide strategic consulting, 
 ### [Solar Code](https://github.com/serithemage/solar-code) ⭐ 13 stars
 AI-powered CLI tool built on Upstage's Solar Pro2 model for intelligent codebase interaction. Features native Korean and English support, advanced code analysis, and extensible MCP integration. Enables developers to query, edit, and analyze codebases through natural conversation.
 
-### [awesome-vibecoding](https://github.com/roboco-io/awesome-vibecoding) ⭐ 160 stars
+### [awesome-vibecoding](https://github.com/roboco-io/awesome-vibecoding) ⭐ 162 stars
 Comprehensive curated resource collection for Vibe Coding - the definitive guide for AI-driven development. Includes best practices, tools, learning paths, and community resources.
 
 ### [AI-DLC](https://github.com/serithemage/AI-DLC) ⭐ 5
@@ -142,6 +142,9 @@ AI-native development scaffolding system for vibe coding with Claude Code. Gener
 
 ### [vibe-ready-cli](https://github.com/roboco-io/vibe-ready-cli) ⭐ 2
 CLI tool that assesses and prepares codebases for Vibe Coding adoption. Analyzes project structure, configuration, and documentation readiness for AI-assisted development.
+
+### [intent-engineering](https://github.com/roboco-io/intent-engineering)
+Ship intent, not code. A practical paradigm for the age of vibe coding — focused on expressing developer intent clearly so AI agents can execute effectively. Explores how intent-driven workflows reshape the human-AI collaboration model.
 
 ### [vibe-coding-recommendations](https://github.com/roboco-io/vibe-coding-recommendations)
 Official Vibe Coding standard guide establishing best practices, conventions, and recommendations for AI-driven development. Provides comprehensive guidelines for effective human-AI collaboration in software development.

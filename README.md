@@ -66,7 +66,7 @@ As one of Korea's foremost Vibe Coding experts, I provide strategic consulting, 
 
 * **TypeScript** — Serverless AI agents ([serverless-openclaw](https://github.com/serithemage/serverless-openclaw) ⭐190), code assistants, demo apps
 * **Go** — Document conversion tools ([hwp2md](https://github.com/roboco-io/hwp2md) ⭐115), GitHub automation CLI ([ghx-cli](https://github.com/roboco-io/ghx-cli) ⭐5), test analysis ([buildcop](https://github.com/roboco-io/buildcop))
-* **Python** — AI research pipelines ([serverless-autoresearch](https://github.com/roboco-io/serverless-autoresearch) ⭐20), S3 benchmark experiments ([s3-experiments](https://github.com/roboco-io/s3-experiments) ⭐8), MCP servers
+* **Python** — AI research pipelines ([serverless-autoresearch](https://github.com/roboco-io/serverless-autoresearch) ⭐21), S3 benchmark experiments ([s3-experiments](https://github.com/roboco-io/s3-experiments) ⭐8), MCP servers
 * **Java 21** — Spring Boot 3 backend API ([realworld-java21-springboot3](https://github.com/roboco-io/realworld-java21-springboot3))
 
 ## AWS Serverless & AI Infrastructure
@@ -131,7 +131,7 @@ AI-powered CLI tool built on Upstage's Solar Pro2 model for intelligent codebase
 ### [awesome-vibecoding](https://github.com/roboco-io/awesome-vibecoding) ⭐ 181 stars
 Comprehensive curated resource collection for Vibe Coding - the definitive guide for AI-driven development. Includes best practices, tools, learning paths, and community resources.
 
-### [AI-DLC](https://github.com/serithemage/AI-DLC) ⭐ 8
+### [AI-DLC](https://github.com/serithemage/AI-DLC) ⭐ 9
 AI-Driven Development Lifecycle (AI-DLC) methodology Korean translation. Comprehensive framework for integrating AI into the software development lifecycle.
 
 ### [aidlc-cc-plugin](https://github.com/serithemage/aidlc-cc-plugin) ⭐ 3
@@ -195,13 +195,13 @@ Advanced projects demonstrating enterprise development patterns:
 - **[claude-skills](https://github.com/roboco-io/claude-skills)** - Claude Code skills collection for code review, API design, test generation, and Korean documentation
 - **[hwp2md](https://github.com/roboco-io/hwp2md)** ⭐ 115 - Tool for converting HWP (Hancom Word Processor) documents to Markdown
 - **[botmadang-mcp](https://github.com/serithemage/botmadang-mcp)** ⭐ 3 - MCP server for Botmadang, enabling AI agents to interact with Korean social platform
-- **[plugins](https://github.com/roboco-io/plugins)** ⭐ 13 - Claude Code plugin collection - Skills, Commands, Agents, Hooks
+- **[plugins](https://github.com/roboco-io/plugins)** ⭐ 14 - Claude Code plugin collection - Skills, Commands, Agents, Hooks
 - **[vmux](https://github.com/roboco-io/vmux)** - Agent-Friendly Terminal Extension for VS Code, enabling AI agents to interact with terminal sessions
 - **[buildcop](https://github.com/roboco-io/buildcop)** ⭐ 1 - CLI tool to find broken culprit for large test suites
 - **[data-analysis-demo](https://github.com/roboco-io/data-analysis-demo)** - Stock market analysis with AI workflows
 
 ### AI & Research
-- **[serverless-autoresearch](https://github.com/roboco-io/serverless-autoresearch)** ⭐ 20 - Parallel evolution pipeline for Karpathy's autoresearch on SageMaker Spot Training (H100). 10x faster with HUGI pattern
+- **[serverless-autoresearch](https://github.com/roboco-io/serverless-autoresearch)** ⭐ 21 - Parallel evolution pipeline for Karpathy's autoresearch on SageMaker Spot Training (H100). 10x faster with HUGI pattern
 - **[topology-efficient-deep-learning](https://github.com/roboco-io/topology-efficient-deep-learning)** ⭐ 2 - Experiments validating deep learning efficiency using topology/structural mathematics (TDA, tensor decomposition)
 - **[korea-ai-foundation-model-verification](https://github.com/serithemage/korea-ai-foundation-model-verification)** ⭐ 47 - Verification project for Korean government's AI foundation models from 5 institutions (Upstage, NAVER, SKT, NC, LG)
 - **[KSAT-AI-Benchmark](https://github.com/roboco-io/KSAT-AI-Benchmark)** - AI benchmarking project for Korean SAT tests
@@ -226,7 +226,7 @@ Python solutions for 2017 Korean College Scholastic Ability Test mathematics pro
 
 ## AWS & Cloud Infrastructure
 
-### [AWSCertifiedSolutionsArchitectUnofficialStudyGuide](https://github.com/serithemage/AWSCertifiedSolutionsArchitectUnofficialStudyGuide) ⭐ 1,322
+### [AWSCertifiedSolutionsArchitectUnofficialStudyGuide](https://github.com/serithemage/AWSCertifiedSolutionsArchitectUnofficialStudyGuide) ⭐ 1,323
 Unofficial study guide for AWS Certified Solutions Architect - Associate exam. One of the most popular Korean-language AWS certification resources with comprehensive coverage of exam topics and practical insights.
 
 ### [AWS Class Resources](https://github.com/serithemage/AWS_class_resources) ⭐ 75

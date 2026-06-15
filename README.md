@@ -22,7 +22,7 @@ As one of Korea's foremost Vibe Coding experts, I provide strategic consulting, 
 * Published [Hands-On Vibe Coding](https://www.hanbit.co.kr/store/books/look.php?p_code=B3757318997) (Hanbit Media, 2025), the definitive Korean-language guide to Vibe Coding
 * Created comprehensive educational framework including Challenge Driven Learning (CDL) methodology, workshop platforms, and real-world demonstrations
 * Built production-grade open-source tools and libraries demonstrating Vibe Coding principles across multiple technology stacks
-* Published curated resources ([awesome-vibecoding](https://github.com/roboco-io/awesome-vibecoding), ⭐181) serving as the definitive guide for AI-driven development
+* Published curated resources ([awesome-vibecoding](https://github.com/roboco-io/awesome-vibecoding), ⭐182) serving as the definitive guide for AI-driven development
 * Active community builder through workshops, conferences (AWS Unicorn Day 2026), and training programs helping organizations adopt AI development practices
 
 ## AI Innovation & Implementation
@@ -92,7 +92,7 @@ As one of Korea's foremost Vibe Coding experts, I provide strategic consulting, 
 ## AI Innovation Consultant & Vibe Coding Pioneer (Roboco.io) (2024.12 \~ Present)
 
 * **Lead Vibe Coding adoption** across organizations through strategic consulting, hands-on training, and customized implementation roadmaps
-* **Create and maintain open-source tools** demonstrating Vibe Coding principles — Serverless OpenClaw (⭐190), hwp2md (⭐115), awesome-vibecoding (⭐181)
+* **Create and maintain open-source tools** demonstrating Vibe Coding principles — Serverless OpenClaw (⭐190), hwp2md (⭐115), awesome-vibecoding (⭐182)
 * **Build serverless AI infrastructure** achieving ~$1/month operational cost for AI agent workloads ([Serverless OpenClaw](https://github.com/serithemage/serverless-openclaw), ⭐190); presented at **AWS Unicorn Day 2026**
 * **Develop Git-based engineering intelligence services** using multi-LLM orchestration for developer performance analysis
 * **Pioneer Challenge Driven Learning (CDL)** methodology and build workshop platforms for scalable AI education delivery
@@ -128,10 +128,10 @@ As one of Korea's foremost Vibe Coding experts, I provide strategic consulting, 
 ### [Solar Code](https://github.com/serithemage/solar-code) ⭐ 13 stars
 AI-powered CLI tool built on Upstage's Solar Pro2 model for intelligent codebase interaction. Features native Korean and English support, advanced code analysis, and extensible MCP integration. Enables developers to query, edit, and analyze codebases through natural conversation.
 
-### [awesome-vibecoding](https://github.com/roboco-io/awesome-vibecoding) ⭐ 181 stars
+### [awesome-vibecoding](https://github.com/roboco-io/awesome-vibecoding) ⭐ 182 stars
 Comprehensive curated resource collection for Vibe Coding - the definitive guide for AI-driven development. Includes best practices, tools, learning paths, and community resources.
 
-### [AI-DLC](https://github.com/serithemage/AI-DLC) ⭐ 9
+### [AI-DLC](https://github.com/serithemage/AI-DLC) ⭐ 8
 AI-Driven Development Lifecycle (AI-DLC) methodology Korean translation. Comprehensive framework for integrating AI into the software development lifecycle.
 
 ### [aidlc-cc-plugin](https://github.com/serithemage/aidlc-cc-plugin) ⭐ 3
@@ -156,6 +156,9 @@ VibeMap — a structured learning roadmap guiding non-developers through the min
 
 ### [awesome-student-developer-resources](https://github.com/serithemage/awesome-student-developer-resources) ⭐ 13
 A curated list of discounted and free programs for student developers. Comprehensive collection of resources to help students get started with software development.
+
+### [semiconductor-career-prep](https://github.com/serithemage/semiconductor-career-prep)
+Vibe Coding-based career preparation kit for CS and Management Information Systems majors targeting semiconductor companies (Samsung DS, SK hynix, NVIDIA). Applies AI-driven learning to domain-specific career readiness.
 
 ### [Hands-On Vibe Coding Organization](https://github.com/orgs/Hands-On-Vibe-Coding/repositories)
 Complete learning ecosystem with 7 repositories including:
@@ -226,7 +229,7 @@ Python solutions for 2017 Korean College Scholastic Ability Test mathematics pro
 
 ## AWS & Cloud Infrastructure
 
-### [AWSCertifiedSolutionsArchitectUnofficialStudyGuide](https://github.com/serithemage/AWSCertifiedSolutionsArchitectUnofficialStudyGuide) ⭐ 1,323
+### [AWSCertifiedSolutionsArchitectUnofficialStudyGuide](https://github.com/serithemage/AWSCertifiedSolutionsArchitectUnofficialStudyGuide) ⭐ 1,324
 Unofficial study guide for AWS Certified Solutions Architect - Associate exam. One of the most popular Korean-language AWS certification resources with comprehensive coverage of exam topics and practical insights.
 
 ### [AWS Class Resources](https://github.com/serithemage/AWS_class_resources) ⭐ 75

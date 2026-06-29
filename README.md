@@ -198,7 +198,7 @@ Advanced projects demonstrating enterprise development patterns:
 - **[claude-skills](https://github.com/roboco-io/claude-skills)** - Claude Code skills collection for code review, API design, test generation, and Korean documentation
 - **[hwp2md](https://github.com/roboco-io/hwp2md)** ⭐ 115 - Tool for converting HWP (Hancom Word Processor) documents to Markdown
 - **[botmadang-mcp](https://github.com/serithemage/botmadang-mcp)** ⭐ 3 - MCP server for Botmadang, enabling AI agents to interact with Korean social platform
-- **[plugins](https://github.com/roboco-io/plugins)** ⭐ 14 - Claude Code plugin collection - Skills, Commands, Agents, Hooks
+- **[plugins](https://github.com/roboco-io/plugins)** ⭐ 15 - Claude Code plugin collection - Skills, Commands, Agents, Hooks
 - **[vmux](https://github.com/roboco-io/vmux)** - Agent-Friendly Terminal Extension for VS Code, enabling AI agents to interact with terminal sessions
 - **[buildcop](https://github.com/roboco-io/buildcop)** ⭐ 1 - CLI tool to find broken culprit for large test suites
 - **[data-analysis-demo](https://github.com/roboco-io/data-analysis-demo)** - Stock market analysis with AI workflows
@@ -206,6 +206,7 @@ Advanced projects demonstrating enterprise development patterns:
 ### AI & Research
 - **[serverless-autoresearch](https://github.com/roboco-io/serverless-autoresearch)** ⭐ 21 - Parallel evolution pipeline for Karpathy's autoresearch on SageMaker Spot Training (H100). 10x faster with HUGI pattern
 - **[topology-efficient-deep-learning](https://github.com/roboco-io/topology-efficient-deep-learning)** ⭐ 2 - Experiments validating deep learning efficiency using topology/structural mathematics (TDA, tensor decomposition)
+- **[semiconductor-design](https://github.com/roboco-io/semiconductor-design)** - AI agent research project for Report-Grounded Vibe-Coded AutoResearch in open-source DL accelerator design. 3-layer architecture (L1 Process + L2 Substrate + L3 Content) with a graphify knowledge graph
 - **[korea-ai-foundation-model-verification](https://github.com/serithemage/korea-ai-foundation-model-verification)** ⭐ 47 - Verification project for Korean government's AI foundation models from 5 institutions (Upstage, NAVER, SKT, NC, LG)
 - **[KSAT-AI-Benchmark](https://github.com/roboco-io/KSAT-AI-Benchmark)** - AI benchmarking project for Korean SAT tests
 - **[qunova-protein-analyzer](https://github.com/roboco-io/qunova-protein-analyzer)** - Protein structure analysis tool

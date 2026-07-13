@@ -12,7 +12,7 @@
 
 Pioneer of **Vibe Coding** methodology and founder of [Roboco.io](https://roboco.io), leading the transformation of software development through AI collaboration. With over a decade of experience spanning AWS, cloud architecture, and DevOps, I now focus on helping organizations adopt AI-driven development practices that dramatically enhance productivity and innovation. Author of [Hands-On Vibe Coding](https://www.hanbit.co.kr/store/books/look.php?p_code=B3757318997) (Hanbit Media, 2025).
 
-As one of Korea's foremost Vibe Coding experts, I provide strategic consulting, hands-on training, and create open-source tools that empower developers to collaborate effectively with AI. My work spans building cost-optimized serverless AI infrastructure ([Serverless OpenClaw](https://github.com/serithemage/serverless-openclaw), ⭐191), Claude Code plugin ecosystems, document processing tools ([hwp2md](https://github.com/roboco-io/hwp2md), ⭐116), and AI research pipelines. I also develop Git-based multi-LLM engineering intelligence services for developer performance analysis, build workshop platforms for scalable training delivery, and pioneer the Challenge Driven Learning (CDL) methodology for hands-on AI education. I actively contribute to the community through enterprise workshops, conference presentations (AWS Unicorn Day 2026), and open-source projects with rapidly growing adoption.
+As one of Korea's foremost Vibe Coding experts, I provide strategic consulting, hands-on training, and create open-source tools that empower developers to collaborate effectively with AI. My work spans building cost-optimized serverless AI infrastructure ([Serverless OpenClaw](https://github.com/serithemage/serverless-openclaw), ⭐191), Claude Code plugin ecosystems, document processing tools ([hwp2md](https://github.com/roboco-io/hwp2md), ⭐117), and AI research pipelines. I also develop Git-based multi-LLM engineering intelligence services for developer performance analysis, build workshop platforms for scalable training delivery, and pioneer the Challenge Driven Learning (CDL) methodology for hands-on AI education. I actively contribute to the community through enterprise workshops, conference presentations (AWS Unicorn Day 2026), and open-source projects with rapidly growing adoption.
 
 # Key Skills
 
@@ -22,7 +22,7 @@ As one of Korea's foremost Vibe Coding experts, I provide strategic consulting, 
 * Published [Hands-On Vibe Coding](https://www.hanbit.co.kr/store/books/look.php?p_code=B3757318997) (Hanbit Media, 2025), the definitive Korean-language guide to Vibe Coding
 * Created comprehensive educational framework including Challenge Driven Learning (CDL) methodology, workshop platforms, and real-world demonstrations
 * Built production-grade open-source tools and libraries demonstrating Vibe Coding principles across multiple technology stacks
-* Published curated resources ([awesome-vibecoding](https://github.com/roboco-io/awesome-vibecoding), ⭐184) serving as the definitive guide for AI-driven development
+* Published curated resources ([awesome-vibecoding](https://github.com/roboco-io/awesome-vibecoding), ⭐188) serving as the definitive guide for AI-driven development
 * Active community builder through workshops, conferences (AWS Unicorn Day 2026), and training programs helping organizations adopt AI development practices
 
 ## AI Innovation & Implementation
@@ -50,7 +50,7 @@ As one of Korea's foremost Vibe Coding experts, I provide strategic consulting, 
 
 * Early adopter and passionate advocate of CI/CD, DevOps, and Agile methodologies
 * Successfully implemented automated code reviews and streamlined development workflows using GenAI technologies, significantly improving team efficiency
-* Built developer productivity tools such as [hwp2md](https://github.com/roboco-io/hwp2md) (⭐116, HWP→Markdown converter), [buildcop](https://github.com/roboco-io/buildcop) (test failure analysis), and [Claude Code plugins](https://github.com/roboco-io/plugins)
+* Built developer productivity tools such as [hwp2md](https://github.com/roboco-io/hwp2md) (⭐117, HWP→Markdown converter), [buildcop](https://github.com/roboco-io/buildcop) (test failure analysis), and [Claude Code plugins](https://github.com/roboco-io/plugins)
 
 # Tech Stack
 
@@ -65,7 +65,7 @@ As one of Korea's foremost Vibe Coding experts, I provide strategic consulting, 
 ## Languages & Frameworks
 
 * **TypeScript** — Serverless AI agents ([serverless-openclaw](https://github.com/serithemage/serverless-openclaw) ⭐191), code assistants, demo apps
-* **Go** — Document conversion tools ([hwp2md](https://github.com/roboco-io/hwp2md) ⭐116), GitHub automation CLI ([ghx-cli](https://github.com/roboco-io/ghx-cli) ⭐5), test analysis ([buildcop](https://github.com/roboco-io/buildcop))
+* **Go** — Document conversion tools ([hwp2md](https://github.com/roboco-io/hwp2md) ⭐117), GitHub automation CLI ([ghx-cli](https://github.com/roboco-io/ghx-cli) ⭐5), test analysis ([buildcop](https://github.com/roboco-io/buildcop))
 * **Python** — AI research pipelines ([serverless-autoresearch](https://github.com/roboco-io/serverless-autoresearch) ⭐21), S3 benchmark experiments ([s3-experiments](https://github.com/roboco-io/s3-experiments) ⭐8), MCP servers
 * **Java 21** — Spring Boot 3 backend API ([realworld-java21-springboot3](https://github.com/roboco-io/realworld-java21-springboot3))
 
@@ -92,13 +92,13 @@ As one of Korea's foremost Vibe Coding experts, I provide strategic consulting, 
 ## AI Innovation Consultant & Vibe Coding Pioneer (Roboco.io) (2024.12 \~ Present)
 
 * **Lead Vibe Coding adoption** across organizations through strategic consulting, hands-on training, and customized implementation roadmaps
-* **Create and maintain open-source tools** demonstrating Vibe Coding principles — Serverless OpenClaw (⭐191), hwp2md (⭐116), awesome-vibecoding (⭐184)
+* **Create and maintain open-source tools** demonstrating Vibe Coding principles — Serverless OpenClaw (⭐191), hwp2md (⭐117), awesome-vibecoding (⭐188)
 * **Build serverless AI infrastructure** achieving ~$1/month operational cost for AI agent workloads ([Serverless OpenClaw](https://github.com/serithemage/serverless-openclaw), ⭐191); presented at **AWS Unicorn Day 2026**
 * **Develop Git-based engineering intelligence services** using multi-LLM orchestration for developer performance analysis
 * **Run AI agent research experiments** measuring model-collaboration strategies (advisor strategy, report-grounded AutoResearch for DL accelerator design) with rigorous multi-arm evaluation harnesses
 * **Pioneer Challenge Driven Learning (CDL)** methodology and build workshop platforms for scalable AI education delivery
 * **Deliver enterprise workshops** for organizations including DirectCloud Club, Hanbit Media, and T-Times Conference
-* **Develop innovative development tools** like Claude Code plugins, MCP servers ([botmadang-mcp](https://github.com/serithemage/botmadang-mcp)), Solar Code CLI, and testing tools ([buildcop](https://github.com/roboco-io/buildcop))
+* **Develop innovative development tools** like Claude Code plugins, agent-friendly codebase wikis ([claude-wiki](https://github.com/roboco-io/claude-wiki)), MCP servers ([botmadang-mcp](https://github.com/serithemage/botmadang-mcp)), Solar Code CLI, and testing tools ([buildcop](https://github.com/roboco-io/buildcop))
 * **Translate and localize key AI methodologies** such as [AI-DLC](https://github.com/serithemage/AI-DLC) (AI-Driven Development Lifecycle) for the Korean developer community
 
 ## Amazon Web Service - Seoul, Korea (2016.07 \~ 2024.11)
@@ -129,10 +129,10 @@ As one of Korea's foremost Vibe Coding experts, I provide strategic consulting, 
 ### [Solar Code](https://github.com/serithemage/solar-code) ⭐ 13 stars
 AI-powered CLI tool built on Upstage's Solar Pro2 model for intelligent codebase interaction. Features native Korean and English support, advanced code analysis, and extensible MCP integration. Enables developers to query, edit, and analyze codebases through natural conversation.
 
-### [awesome-vibecoding](https://github.com/roboco-io/awesome-vibecoding) ⭐ 184 stars
+### [awesome-vibecoding](https://github.com/roboco-io/awesome-vibecoding) ⭐ 188 stars
 Comprehensive curated resource collection for Vibe Coding - the definitive guide for AI-driven development. Includes best practices, tools, learning paths, and community resources.
 
-### [AI-DLC](https://github.com/serithemage/AI-DLC) ⭐ 8
+### [AI-DLC](https://github.com/serithemage/AI-DLC) ⭐ 9
 AI-Driven Development Lifecycle (AI-DLC) methodology Korean translation. Comprehensive framework for integrating AI into the software development lifecycle.
 
 ### [aidlc-cc-plugin](https://github.com/serithemage/aidlc-cc-plugin) ⭐ 3
@@ -197,12 +197,13 @@ Advanced projects demonstrating enterprise development patterns:
 ### Development Tools
 - **[ghx-cli](https://github.com/roboco-io/ghx-cli)** ⭐ 5 - Enhanced CLI for GitHub Projects automation and workflow management
 - **[claude-skills](https://github.com/roboco-io/claude-skills)** - Claude Code skills collection for code review, API design, test generation, and Korean documentation
-- **[hwp2md](https://github.com/roboco-io/hwp2md)** ⭐ 116 - Tool for converting HWP (Hancom Word Processor) documents to Markdown
+- **[hwp2md](https://github.com/roboco-io/hwp2md)** ⭐ 117 - Tool for converting HWP (Hancom Word Processor) documents to Markdown
 - **[botmadang-mcp](https://github.com/serithemage/botmadang-mcp)** ⭐ 3 - MCP server for Botmadang, enabling AI agents to interact with Korean social platform
-- **[plugins](https://github.com/roboco-io/plugins)** ⭐ 15 - Claude Code plugin collection - Skills, Commands, Agents, Hooks
+- **[plugins](https://github.com/roboco-io/plugins)** ⭐ 16 - Claude Code plugin collection - Skills, Commands, Agents, Hooks
 - **[vmux](https://github.com/roboco-io/vmux)** - Agent-Friendly Terminal Extension for VS Code, enabling AI agents to interact with terminal sessions
 - **[buildcop](https://github.com/roboco-io/buildcop)** ⭐ 1 - CLI tool to find broken culprit for large test suites
 - **[data-analysis-demo](https://github.com/roboco-io/data-analysis-demo)** - Stock market analysis with AI workflows
+- **[claude-wiki](https://github.com/roboco-io/claude-wiki)** ⭐ 2 - Agent-friendly codebase wikis generated via Claude Code — no API key required
 
 ### AI & Research
 - **[serverless-autoresearch](https://github.com/roboco-io/serverless-autoresearch)** ⭐ 21 - Parallel evolution pipeline for Karpathy's autoresearch on SageMaker Spot Training (H100). 10x faster with HUGI pattern
@@ -232,8 +233,9 @@ Python solutions for 2017 Korean College Scholastic Ability Test mathematics pro
 
 ## AWS & Cloud Infrastructure
 
-### [AWSCertifiedSolutionsArchitectUnofficialStudyGuide](https://github.com/serithemage/AWSCertifiedSolutionsArchitectUnofficialStudyGuide) ⭐ 1,323
+### [AWSCertifiedSolutionsArchitectUnofficialStudyGuide](https://github.com/serithemage/AWSCertifiedSolutionsArchitectUnofficialStudyGuide) ⭐ 1,321
 Unofficial study guide for AWS Certified Solutions Architect - Associate exam. One of the most popular Korean-language AWS certification resources with comprehensive coverage of exam topics and practical insights.
+
 
 ### [AWS Class Resources](https://github.com/serithemage/AWS_class_resources) ⭐ 75
 Repository of AWS training materials and resources accumulated from years of experience as AWS Technical Trainer, covering various AWS services and best practices.

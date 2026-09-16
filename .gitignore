@@ -1,2 +1,5 @@
 # 수집 데이터 (임시, git에 포함하지 않음)
 data/
+
+# Private job application resume and editable sources
+/output/pdf/jung-do-hyun-openai-resume*

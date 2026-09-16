@@ -1,128 +1,75 @@
 <h1>Jung Do Hyun</h1>
 
-**Vibe Coding Pioneer & AI-Driven Development Expert**
+**Customer-Facing AI & Cloud Engineer | Enterprise Enablement & Automation**
 
 - Location: Seoul, Korea
-- Email: [dohyun@roboco.io](mailto://dohyun@roboco.io)
+- Email: [dohyun@roboco.io](mailto:dohyun@roboco.io)
 - Blog: [roboco.io/posts](https://roboco.io/posts/), [moreagile.net](https://moreagile.net)
 - LinkedIn: [@serithemage](https://www.linkedin.com/in/dohyun-jung-b66b8262/)
 - GitHub: [@serithemage](https://github.com/serithemage)
 
 # Summary
 
-Pioneer of **Vibe Coding** methodology and founder of [Roboco.io](https://roboco.io), leading the transformation of software development through AI collaboration. With over a decade of experience spanning AWS, cloud architecture, and DevOps, I now focus on helping organizations adopt AI-driven development practices that dramatically enhance productivity and innovation. Author of [Hands-On Vibe Coding](https://www.hanbit.co.kr/store/books/look.php?p_code=B3757318997) (Hanbit Media, 2025).
+Software engineer since 1995, with 30+ years of hands-on development, 13+ years of direct customer engagement since joining Mamezou in 2013, and 14 years working in Japan. Curiosity has kept me building from the early web era through cloud platforms to today's AI agents. Previously an AWS Senior Software Development Engineer and Senior Technical Trainer. As the founder and principal consultant of [Roboco.io](https://roboco.io), a solo consultancy, I personally lead customer engagements spanning AI adoption, technical assessment, implementation guidance, and knowledge transfer.
 
-As one of Korea's foremost Vibe Coding experts, I provide strategic consulting, hands-on training, and create open-source tools that empower developers to collaborate effectively with AI. My work spans building cost-optimized serverless AI infrastructure ([Serverless OpenClaw](https://github.com/serithemage/serverless-openclaw), ⭐191), Claude Code plugin ecosystems, document processing tools ([hwp2md](https://github.com/roboco-io/hwp2md), ⭐117), and AI research pipelines. I also develop Git-based multi-LLM engineering intelligence services for developer performance analysis, build workshop platforms for scalable training delivery, and pioneer the Challenge Driven Learning (CDL) methodology for hands-on AI education. I actively contribute to the community through enterprise workshops, conference presentations (AWS Unicorn Day 2026), and open-source projects with rapidly growing adoption.
-
-# Key Skills
-
-## Vibe Coding Expertise
-
-* **Pioneer and thought leader** in Vibe Coding methodology - transforming software development through human-AI collaboration
-* Published [Hands-On Vibe Coding](https://www.hanbit.co.kr/store/books/look.php?p_code=B3757318997) (Hanbit Media, 2025), the definitive Korean-language guide to Vibe Coding
-* Created comprehensive educational framework including Challenge Driven Learning (CDL) methodology, workshop platforms, and real-world demonstrations
-* Built production-grade open-source tools and libraries demonstrating Vibe Coding principles across multiple technology stacks
-* Published curated resources ([awesome-vibecoding](https://github.com/roboco-io/awesome-vibecoding), ⭐188) serving as the definitive guide for AI-driven development
-* Active community builder through workshops, conferences (AWS Unicorn Day 2026), and training programs helping organizations adopt AI development practices
-
-## AI Innovation & Implementation
-
-* Expertise in designing and implementing AI-driven development workflows that enhance productivity and code quality
-* Built cost-optimized serverless AI infrastructure ([Serverless OpenClaw](https://github.com/serithemage/serverless-openclaw), ⭐191) running AI agents on AWS at ~$1/month
-* Developing Git-based multi-LLM engineering intelligence for developer performance analysis and team productivity insights
-* Experience building AI-powered development tools (Claude Code plugins, MCP servers, Solar Code CLI, automation frameworks)
-* Developed AI research pipelines ([serverless-autoresearch](https://github.com/roboco-io/serverless-autoresearch)) for parallel model evolution on SageMaker Spot Training
-* Contributed to AI development methodology through Korean translation and Claude Code integration of [AI-DLC](https://github.com/serithemage/AI-DLC) (AI-Driven Development Lifecycle) framework
-
-## Cloud & Microservice Migration Experts
-
-* Led multiple cloud migration projects for major enterprises such as ANA, NRI, and Oryx as architect and PM
-* Leveraged extensive experience as an AWS Technical Trainer to mitigate common migration pitfalls and optimize cloud strategies
-* Skilled in risk management, infrastructure design, and microservice migration planning
-
-## Project Management
-
-* Proven capability in managing complex IT projects with a strong emphasis on client trust and expectation management
-* Successfully managed cross-cultural IT consulting engagements in Korea and Japan
-* Demonstrated leadership in managing technical teams and stakeholders, delivering high-value projects consistently on schedule
-
-## Development Process Experts
-
-* Early adopter and passionate advocate of CI/CD, DevOps, and Agile methodologies
-* Successfully implemented automated code reviews and streamlined development workflows using GenAI technologies, significantly improving team efficiency
-* Built developer productivity tools such as [hwp2md](https://github.com/roboco-io/hwp2md) (⭐117, HWP→Markdown converter), [buildcop](https://github.com/roboco-io/buildcop) (test failure analysis), and [Claude Code plugins](https://github.com/roboco-io/plugins)
-
-# Tech Stack
-
-## AI Development Tools
-
-* **Claude Code** — Plugin ecosystem development ([plugins](https://github.com/roboco-io/plugins), [aidlc-cc-plugin](https://github.com/serithemage/aidlc-cc-plugin)), Skills/Commands/Agents/Hooks
-* **Multi-LLM Orchestration** — Developer analysis and agent pipeline design using Claude, GPT, Gemini and other models
-* **MCP (Model Context Protocol)** — AI agent integration server development ([botmadang-mcp](https://github.com/serithemage/botmadang-mcp) ⭐3)
-* **Upstage Solar Pro2** — Code assistant CLI development ([solar-code](https://github.com/serithemage/solar-code) ⭐13)
-* Cursor, Windsurf and other AI coding tools — hands-on enterprise workshop training
-
-## Languages & Frameworks
-
-* **TypeScript** — Serverless AI agents ([serverless-openclaw](https://github.com/serithemage/serverless-openclaw) ⭐191), code assistants, demo apps
-* **Go** — Document conversion tools ([hwp2md](https://github.com/roboco-io/hwp2md) ⭐117), GitHub automation CLI ([ghx-cli](https://github.com/roboco-io/ghx-cli) ⭐5), test analysis ([buildcop](https://github.com/roboco-io/buildcop))
-* **Python** — AI research pipelines ([serverless-autoresearch](https://github.com/roboco-io/serverless-autoresearch) ⭐21), S3 benchmark experiments ([s3-experiments](https://github.com/roboco-io/s3-experiments) ⭐8), MCP servers
-* **Java 21** — Spring Boot 3 backend API ([realworld-java21-springboot3](https://github.com/roboco-io/realworld-java21-springboot3))
-
-## AWS Serverless & AI Infrastructure
-
-* **Lambda + API Gateway + DynamoDB** — OpenClaw AI agent (~$1/month operational cost)
-* **SageMaker Spot Training (H100)** — autoresearch parallel evolution pipeline (10x performance improvement)
-* **S3** — Benchmark validation for KV Store, Event Store, RDBMS alternatives
-* **ECS/Fargate, CDK, StepFunctions** — Container orchestration and IaC
-* CloudWatch, CodeBuild, CodeDeploy — CI/CD and operations
-
-## Frontend & UI
-
-* React 19, Svelte — Vibe Coding demos and production projects
-* Telegram Bot API, Web UI — AI agent interfaces
-
-## Data & Tooling
-
-* DynamoDB, MySQL(Aurora), PostgreSQL, Redshift, Neo4J — Optimal database selection per project
-* Docker, Makefile-based builds — Standardized development environment across all projects
+I combine hands-on engineering with customer education: understanding existing systems, explaining technical tradeoffs, and building tools that make development and operational work easier. My work includes enterprise AI consulting, serverless applications, MCP integrations, and developer automation. I am the author of [Hands-On Vibe Coding](https://www.hanbit.co.kr/store/books/look.php?p_code=B3757318997) (Hanbit Media, 2025).
 
 # Experience
 
-## AI Innovation Consultant & Vibe Coding Pioneer (Roboco.io) (2024.12 \~ Present)
+## Roboco.io - Founder & Principal AI Consultant (2024.12 - Present)
 
-* **Lead Vibe Coding adoption** across organizations through strategic consulting, hands-on training, and customized implementation roadmaps
-* **Create and maintain open-source tools** demonstrating Vibe Coding principles — Serverless OpenClaw (⭐191), hwp2md (⭐117), awesome-vibecoding (⭐188)
-* **Build serverless AI infrastructure** achieving ~$1/month operational cost for AI agent workloads ([Serverless OpenClaw](https://github.com/serithemage/serverless-openclaw), ⭐191); presented at **AWS Unicorn Day 2026**
-* **Develop Git-based engineering intelligence services** using multi-LLM orchestration for developer performance analysis
-* **Run AI agent research experiments** measuring model-collaboration strategies (advisor strategy, report-grounded AutoResearch for DL accelerator design) with rigorous multi-arm evaluation harnesses
-* **Pioneer Challenge Driven Learning (CDL)** methodology and build workshop platforms for scalable AI education delivery
-* **Deliver enterprise workshops** for organizations including DirectCloud Club, Hanbit Media, and T-Times Conference
-* **Develop innovative development tools** like Claude Code plugins, agent-friendly codebase wikis ([claude-wiki](https://github.com/roboco-io/claude-wiki)), MCP servers ([botmadang-mcp](https://github.com/serithemage/botmadang-mcp)), Solar Code CLI, and testing tools ([buildcop](https://github.com/roboco-io/buildcop))
-* **Translate and localize key AI methodologies** such as [AI-DLC](https://github.com/serithemage/AI-DLC) (AI-Driven Development Lifecycle) for the Korean developer community
+Operate a solo consultancy, directly owning customer communication and technical delivery across AI adoption, engineering guidance, and training.
 
-## Amazon Web Service - Seoul, Korea (2016.07 \~ 2024.11)
+* **Environmental engineering:** Conduct existing-system analysis and guide technology knowledge transfer, web reimplementation, and AI integration planning for a wastewater treatment design platform. The engagement focuses on helping the customer understand and take ownership of a vendor-developed system.
+* **Enterprise collaboration SaaS:** Provide AI consulting, with the customer relationship expanding into additional technical advisory work.
+* **Enterprise software and education:** Undertake AI transformation consulting and AI education engagements, adapting guidance to each customer's business and technical context.
+* **Developer enablement:** Deliver hands-on enterprise workshops and develop reusable learning materials, workshop platforms, and open-source examples.
+* **Engineering and automation:** Build serverless AI agents, MCP integrations, document conversion utilities, and test failure analysis tools. Develop multi-LLM workflows for Git-based engineering analysis.
 
-### Software Development Engineer (2022.07 \~ 2024.11)
+## Amazon Web Services - Seoul, Korea (2016.07 - 2024.11)
 
-* Managed Amazon Korea's first development team as Acting Manager, optimizing team workflows and customer-centric development
-* Led the development and optimization of AWS Skillbuilder using DDD and serverless architecture, significantly improving user experience
+### Senior Software Development Engineer (2022.07 - 2024.11)
 
-### Technical Trainer (2016.07 \~ 2022.06)
+* Led development and optimization of AWS Skill Builder using domain-driven design and serverless architecture.
+* Served as Acting Manager of a development team in Korea, coordinating team workflows and customer-focused engineering work.
 
-* Delivered extensive AWS training in cloud architecture, security, DevOps, ML, and serverless solutions
+### Technical Trainer / Senior Technical Trainer (2016.07 - 2022.07)
 
-## Mamezou - Tokyo, Japan (2013.01 \~ 2016.05)
+* Delivered technical training in AWS architecture, security, DevOps, machine learning, and serverless solutions; promoted to Senior Technical Trainer in July 2019.
+* Received AWS 2017 APAC Training Person of the Year (awarded January 2018).
+* Explained complex cloud concepts through technical instruction and practical learning materials.
 
-### Architect, IT Consultant
+## Mamezou - Tokyo, Japan (2013.01 - 2016.05)
 
-* Improved development processes and executed successful cloud migrations with DevOps pipelines
+### Architect & IT Consultant
 
-### Projects
+* Delivered enterprise cloud migration projects for aviation and financial services customers in Japan.
+* Introduced Agile practices and automated CI/CD pipelines to improve development and delivery processes.
 
-* Successfully delivered Orix and ANA cloud migration projects by introducing agile methodologies and automated CI/CD
+## Earlier Engineering Experience
 
-# Featured Projects & Open Source Contributions
+* **Global Cybernet System - Tokyo (2002.06 - 2012.12):** Java Developer, Architect & General Manager; enterprise and embedded applications, data/business modeling, process standardization, and project management.
+* **DotnetSoft (LemonSoft) - Seoul (2000.02 - 2002.03):** Web Developer & Game Producer; websites and online games.
+* **Career beginnings (1995):** Professional software development with Perl CGI and HTML during the emergence of the web.
+
+# Technical Skills
+
+* **Customer enablement:** Technical training, enterprise consulting, architecture assessment, stakeholder communication, and knowledge transfer; professional experience in Korea and Japan.
+* **Languages:** Python, TypeScript, Go, Java; Bash scripting and Git-based workflows.
+* **AI and integrations:** MCP server development, multi-LLM orchestration, Claude Code plugins and automation, API-backed developer tools.
+* **Cloud and operations:** AWS Lambda, API Gateway, DynamoDB, ECS/Fargate, CloudWatch, CDK, Step Functions, and SageMaker.
+* **Development practices:** CI/CD, DevOps, domain-driven design, automated code review, and test failure analysis.
+
+# Selected Projects
+
+* **[buildcop](https://github.com/roboco-io/buildcop):** Go CLI for identifying the source of failures in large test suites; demonstrates investment in developer troubleshooting tools.
+* **[botmadang-mcp](https://github.com/serithemage/botmadang-mcp):** MCP server connecting AI agents to a Korean social platform; demonstrates tool and service integration.
+* **[Serverless OpenClaw](https://github.com/serithemage/serverless-openclaw):** On-demand AI agent infrastructure using Lambda, API Gateway, and DynamoDB, with web and Telegram interfaces; presented at AWS Unicorn Day 2026.
+* **[hwp2md](https://github.com/roboco-io/hwp2md):** Go utility converting Korean HWP documents to Markdown for reusable document workflows.
+* **[updoc](https://github.com/serithemage/updoc):** CLI integrating the Upstage Document Parse API for document processing workflows.
+
+<details>
+<summary>Additional projects and open-source contributions</summary>
 
 ## Vibe Coding Tools & Frameworks
 
@@ -246,11 +193,13 @@ Collection of AWS AI/ML learning resources including Jupyter notebooks, tutorial
 ### [ECS Fargate Fast Scaleout](https://github.com/serithemage/ecs-fargate-fast-scaleout)
 Production-ready CDK implementation achieving sub-10-second autoscaling response for ECS Fargate services. Features high-resolution CloudWatch metrics, RPS-based scaling policies, and comprehensive operational guides. Addresses critical scaling latency issues in containerized workloads.
 
+</details>
+
 # Publications
 
 * [Hands-On Vibe Coding](https://www.hanbit.co.kr/store/books/look.php?p_code=B3757318997) - Hanbit Media, 2025
-* [14 AWS Architecture Patterns You Can Use Right Away](https://www.hanbit.co.kr/store/books/look.php?p_code=B9791162242841) - Hanbit Media, 2020
-* [Practical AWS Workbook](http://www.hanbit.co.kr/media/books/book_view.html?p_code=B3875088991) - Hanbit Media, 2017
+* [14 AWS Architecture Patterns You Can Use Right Away](https://www.hanbit.co.kr/store/books/look.php?p_code=B9791162242841) - Hanbit Media, 2020 (Korean translation)
+* [Practical AWS Workbook](http://www.hanbit.co.kr/media/books/book_view.html?p_code=B3875088991) - Hanbit Media, 2017 (Korean translation)
 * [I am a Programmer Vol.2](https://www.hanbit.co.kr/store/books/look.php?p_code=B9138379916) - Hanbit Media, 2017
 * [I am a Programmer Vol.1](https://www.hanbit.co.kr/store/books/look.php?p_code=B9138379916) - Hanbit Media, 2016
 
